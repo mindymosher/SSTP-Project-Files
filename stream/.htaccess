@@ -1,8 +1,0 @@
-AuthType Basic
-AuthName "Madame Stream"
-AuthUserFile /var/www/htpasswd
-#require valid-user
-
-RewriteEngine on
-RewriteCond %{REMOTE_ADDR} 67.81.73.217
-RewriteRule .* http://www.reddit.com/r/spacedicks [R=301,L]
