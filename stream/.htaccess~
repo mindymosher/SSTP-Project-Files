@@ -1,0 +1,3 @@
+AuthType Basic
+AuthName "Madame Stream"
+AuthUserFile /var/www/htpasswd

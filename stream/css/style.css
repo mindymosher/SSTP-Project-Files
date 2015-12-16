@@ -1,0 +1,261 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.clear {
+	clear: both;
+}
+
+a {
+	color: #000;
+	text-decoration:none;
+}	
+
+@font-face {
+    font-family: 'radiantantiqueregular';
+    src: url('../fonts/RADIANTANTIQUE.eot');
+    src: url('../fonts/RADIANTANTIQUE.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/RADIANTANTIQUE.woff2') format('woff2'),
+         url('../fonts/RADIANTANTIQUE.woff') format('woff'),
+         url('../fonts/RADIANTANTIQUE.ttf') format('truetype'),
+         url('../fonts/RADIANTANTIQUE.svg#radiantantiqueregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'sancreekregular';
+    src: url('../fonts/SANCREEK-REGULAR.eot');
+    src: url('../fonts/SANCREEK-REGULAR.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/SANCREEK-REGULAR.woff2') format('woff2'),
+         url('../fonts/SANCREEK-REGULAR.woff') format('woff'),
+         url('../fonts/SANCREEK-REGULAR.ttf') format('truetype'),
+         url('../fonts/SANCREEK-REGULAR.svg#sancreekregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+.radiantantique { 
+	font-family: 'radiantantiqueregular', sans-serif;
+}	
+
+.allura {
+	font-family: 'Allura', cursive;
+}
+
+.yesteryear {
+	font-family: 'Yesteryear', cursive;
+}
+
+.seaweed {
+	font-family: 'Seaweed Script', cursive;
+}
+
+.dynalight {
+	font-family: 'Dynalight', cursive;
+}
+
+.oswald {
+	font-family: 'Oswald', sans-serif;
+}
+
+.slabo {
+	font-family: 'Slabo 27px', serif;
+}
+
+.lora {
+	font-family: 'Lora', serif;
+}
+
+.playfair {
+	font-family: 'Playfair Display', serif;
+}
+
+.about p {
+	margin: 5px 0 10px 0;
+}
+
+#main {
+	width: 900px;
+	margin: 0 auto 0;
+	background-color: white;
+	padding: 10px 20px;
+	border: 100px solid transparent;
+    -webkit-border-image:url('../img/sstp-border.png') 95 95 100 100 stretch; /* Safari 3.1-5 */
+    -o-border-image:url('../img/sstp-border.png') 95 95 100 100 stretch; /* Opera 11-12.1 */
+    border-image:url('../img/sstp-border.png') 95 95 100 100 stretch;
+
+  display: -webkit-box;      /* OLD - iOS 6-, Safari 3.1-6 */
+  display: -moz-box;         /* OLD - Firefox 19- (buggy but mostly works) */
+  display: -ms-flexbox;      /* TWEENER - IE 10 */
+  display: -webkit-flex;     /* NEW - Chrome */
+  display: flex;             /* NEW, Spec - Opera 12.1, Firefox 20+ */
+ 
+	-webkit-flex-flow: row wrap;
+	flex-flow: row wrap;
+	justify-content: space-between;
+	-webkit-justify-content; space-between;
+}
+
+h1, h2, h3 {
+	font-family: 'radiantantiqueregular';
+}
+
+h1.title {
+	margin-top: -130px;
+	font-size: 115px;
+	flex: 1 38%;
+	-webkit-flex: 1 38%;
+	-ms-flex: 1 38%;
+}
+
+#subtitle {
+flex: 2 61%;
+-webkit-flex: 2 61%;
+-ms-flex: 2 61%;
+}
+
+h2.title {
+	font-size: 50px;
+	margin-top: -80px;
+	letter-spacing: 4px;
+}
+
+h3.title {
+	font-size: 40px;
+	margin-top: -40px;
+	letter-spacing: 6.5px;
+}
+
+#vidBox {
+	display: -webkit-box;  /* OLD - iOS 6-, Safari 3.1-6, BB7 */
+	display: -ms-flexbox;  /* TWEENER - IE 10 */
+	display: -webkit-flex; /* NEW - Safari 6.1+. iOS 7.1+, BB10 */
+	display: flex;         /* NEW, Spec - Firefox, Chrome, Opera */
+	-webkit-flex-flow: row;
+	flex-flow: row;
+	-ms-flex-flow: row;
+	justify-content: space-between;
+	-webkit-justify-content: space-between;
+}
+
+#cameraButtons {
+	display: -webkit-box;  /* OLD - iOS 6-, Safari 3.1-6, BB7 */
+	display: -ms-flexbox;  /* TWEENER - IE 10 */
+	display: -webkit-flex; /* NEW - Safari 6.1+. iOS 7.1+, BB10 */
+	display: flex;         /* NEW, Spec - Firefox, Chrome, Opera */
+	-webkit-flex-flow: column;
+	flex-flow: column;
+	-ms-flex-flow: column;
+	justify-content: space-between;
+	-webkit-justify-content: space-between;
+	flex: 1 7%;
+	-ms-flex: 1 7%;
+	-webkit-flex: 1 7%;
+	height: 500px;
+}
+
+#cameraButtons #head {
+	-webkit-flex: 1 10%;
+}
+
+#camSelect {
+	display: -webkit-box;  /* OLD - iOS 6-, Safari 3.1-6, BB7 */
+	display: -ms-flexbox;  /* TWEENER - IE 10 */
+	display: -webkit-flex; /* NEW - Safari 6.1+. iOS 7.1+, BB10 */
+	display: flex;         /* NEW, Spec - Firefox, Chrome, Opera */
+	-webkit-flex-flow: column;
+	flex-flow: column;
+	-webkit-justify-content: space-around;
+	justify-content: space-around;
+	flex: 2 60%;
+	-webkit-flex: 2 90%;
+}
+
+.camButton {
+	border: 2px black solid;
+	height: 40px;
+	width: 40px;
+	-moz-border-radius: 20px;
+	border-radius: 20px;
+	font-size: 35px;
+	text-align: center;
+	line-height: 83%;
+	cursor: pointer;
+	-webkit-box-shadow: 4px 6px 9px -2px rgba(0,0,0,0.6);
+	-moz-box-shadow: 4px 6px 9px -2px rgba(0,0,0,0.6);
+	box-shadow: 4px 6px 9px -2px rgba(0,0,0,0.6);
+}
+
+.camButton:hover {
+	background: #444;
+	-webkit-box-shadow: -4px -1px 9px -2px rgba(0, 0, 0, 0.6);
+	-moz-box-shadow: -4px -1px 9px -2px rgba(0, 0, 0, 0.6);
+	box-shadow: -4px -1px 9px -2px rgba(0, 0, 0, 0.6);
+	color: #fff;
+}
+
+.camButton:active, .camButton.selected {
+	background: #aaa;
+	-webkit-box-shadow: -4px -1px 9px -2px rgba(0, 0, 0, 0.6);
+	-moz-box-shadow: -4px -1px 9px -2px rgba(0, 0, 0, 0.6);
+	box-shadow: -4px -1px 9px -2px rgba(0, 0, 0, 0.6);
+	color: #333;
+}
+
+iframe {
+	margin: 0;
+	padding: 0;
+	flex: 2 71%;
+	-webkit-flex: 2 73%;
+}
+
+#serialButton {
+	float: right;
+	width: 200px;
+	-webkit-box-flex: 3 25%;
+	-moz-box-flex:  3 25%;
+	-webkit-flex:  3 28%;
+	margin-right: -60px;
+	-ms-flex: 3 25%;
+	flex: 3 25%;
+	display: -webkit-box;  /* OLD - iOS 6-, Safari 3.1-6, BB7 */
+	display: -ms-flexbox;  /* TWEENER - IE 10 */
+	display: -webkit-flex; /* NEW - Safari 6.1+. iOS 7.1+, BB10 */
+	display: flex;         /* NEW, Spec - Firefox, Chrome, Opera */
+	-webkit-flex-flow: row wrap;
+	flex-flow: row wrap;
+	justify-content: space-around;
+	-webkit-justify-content: space-around;
+}
+
+#serialButton img {
+	cursor: pointer;
+}
+
+#serialButton img.disabled {
+	cursor: not-allowed;
+	opacity: 0.5;
+}
+
+.ui-widget-overlay {
+	background-repeat: no-repeat;
+}
+
+#chat {
+	display: -webkit-box;  /* OLD - iOS 6-, Safari 3.1-6, BB7 */
+	display: -ms-flexbox;  /* TWEENER - IE 10 */
+	display: -webkit-flex; /* NEW - Safari 6.1+. iOS 7.1+, BB10 */
+	display: flex;         /* NEW, Spec - Firefox, Chrome, Opera */
+	-webkit-flex-flow: row;
+	flex-flow: row;
+	justify-content: space-around;
+	-webkit-justify-content: space-around;
+	margin-top: 10px;
+}
+
+#chat-area p span {
+	color: black

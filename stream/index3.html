@@ -1,0 +1,38 @@
+<html>
+<head>
+	<script type="text/javascript" src="flowplayer-3.2.13.min.js"></script>
+</head>
+<body style=" margin: 0; padding: 0;">
+   <div id="player" 
+		style="display:block;width:640px;height:480px;"></div> 
+
+   <script>
+   flowplayer("player", "flowplayer-3.2.18.swf", {
+	 
+	 plugins: {
+		 pseudo: {
+			 url: "flowplayer.pseudostreaming-3.2.13.swf"
+		 },
+		controls: {
+                        all: false,
+                        play: false,
+                        volume: true,
+                        mute: true,
+                        fullscreen: true,
+                        scrubber: false,
+                        backgroundGradient: "none",
+                        backgroundColor: "rgba(0.0, 0.0, 0.0, 0.0)",
+                        left: 500
+                 }
+	 },
+	 // clip properties
+	 clip: {
+		 url: 'http://madame.mindymosher.com:8083/stream.flv',
+		 live: true,
+		 bufferLength: 0,
+		 provider: 'pseudo',
+	 }
+   });
+   </script>
+</body>
+</html>

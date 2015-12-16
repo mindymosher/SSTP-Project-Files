@@ -1,0 +1,187 @@
+<?php
+	session_start();
+	
+	require_once("Chat2/dbcon.php");
+	$number = 1;
+	
+	while (!isset($_SESSION['userid'])) {
+		
+		$username = "ghost".$number;
+		
+		$getUser = "SELECT * 
+					FROM chat_users 
+					WHERE username = '$username'";
+					
+		if (!hasData($getUser)) {
+			$now = time();
+			
+			$postUsers = "INSERT INTO chat_users (
+				id,
+				username,
+				status,
+				time_mod
+				)
+			VALUES (
+				NULL, '$username;, '1', '$now'
+			)";
+				
+			$insertUser = "INSERT INTO chat_users_rooms (
+				id,
+				username,
+				room,
+				mod_time
+				)
+			VALUES (
+				NULL,
+				'$username',
+				'Parlor',
+				'$now'
+			)";
+				
+			mysql_query($postUsers);
+			mysql_query($insertUser);
+			
+			$_SESSION['userid'] = $username;
+			
+		} else {
+			$number++;
+		}
+	}
+	
+	$roomResults = mysql_query("SELECT * FROM chat_rooms WHERE name = 'Parlor'");
+	while ($rooms = mysql_fetch_array($roomResults)) {
+		$file = $rooms['file'];
+	}
+	
+
+?>
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<Title>Madame Meena's Haunted Parlor</title>
+		
+
+		<script language="javascript" type="text/javascript"
+		src="/javascript/jquery/jquery.js"></script>
+
+		<script language="javascript" type="text/javascript"
+		src="/javascript/jquery-ui/jquery-ui.js"></script>
+
+		<link type="text/css" rel="stylesheet" href="css/style.css">
+		<link rel="stylesheet" type="text/css" href="Chat2/main.css"/>
+		<link type="text/css"
+   			 href="/javascript/jquery-ui/css/smoothness/jquery-ui.css"
+    			 rel="stylesheet" />
+		
+		<script type="text/javascript" src="Chat2/room/chat.js"></script>
+		<script type="text/javascript">
+			var chat = new Chat('<?php echo $file; ?>');
+			chat.init();
+			chat.getUsers(<?php echo "'Parlor','" .$_SESSION['userid'] . "'"; ?>);
+			var name = '<?php echo $_SESSION['userid'];?>';
+		</script>
+		<script type="text/javascript" src="Chat2/room/settings.js"></script>
+		<script>
+		$(function() {
+			var dialog, form;
+			function sendPhoneMessage() {
+				$.post( "handler.php", {phoneMessage : $("#message").val()}); 
+				dialog.dialog("close");
+			}
+
+			dialog = $("#call-phone").dialog({
+				autoOpen: false,
+				height: 200,
+				width: 450,
+				modal: true,
+				buttons: {
+					"Send message": sendPhoneMessage,
+					Cancel: function() {
+						dialog.dialog( "close" );
+					}
+				},
+				close: function() {
+					form[ 0 ].reset();
+				}
+			});
+			form = dialog.find( "form" ).on( "submit", function( event ) {
+				event.preventDefault();
+				sendPhoneMessage($("#message"));
+			});
+			 $( "#messagePhone" ).button().on( "click", function() {
+				dialog.dialog( "open" );
+			});
+		});
+		</script>	
+		
+	</head>
+	<body>
+	<div id="call-phone">
+		<p>Send a message to the phone!  (255 character limit.)</p>
+		<form>
+			<fieldset>
+				<label for="message">Message</label>
+				<input type="text" name="message" id="message" value="" class="text ui-widget-content ui-corner-all">
+				
+				<!-- Allow form submission with keyboard without duplicating the dialog button -->
+				<input type="submit" tabindex="-1" style="position:absolute; top:-1000px">
+			</fieldset>
+		</form>
+	</div>
+		<div id="main">
+			<form id="cameraControl">
+				<input type="button" value="Camera 1" id="vid1">
+				<input type="button" value="Camera 2" id="vid2">
+				<input type="button" value="Camera 3" id="vid3">
+				<input type="button" value="Camera 4" id="vid4">
+				<input type="button" value="Camera 5 (IR)" id="vid5">
+			</form>
+			<iframe id="videoFrame" frameborder="0" height="480px" width="700px" src="index1.html"></iframe>
+			<form id="serialButton">
+				<input type="button" value="Trigger" id="serialSend">
+				<input type="button" value="Message Phone" id="messagePhone">
+				<input type="button" value="Fan 1" id="fan1">
+				<input type="button" value="Fan2" id="fan2">
+				<input type="button" value="Knock" id="knock">
+				<input type="button" value="Flicker Lights" id="flickerLights">
+			</form>
+			<div id="chat">
+				<div id="chat-wrap">
+					<div id="chat-area"></div>
+				</div>
+				<div id="userlist"></div>
+                <form id="send-message-area" action="">
+                    <textarea id="sendie" maxlength='256'></textarea>
+                </form>
+			</div>
+		</div>
+		<script type="text/javascript">
+			$("#serialSend").click(function() {
+				$.get("/test.php");
+			});
+			$("#vid1").click(function() {
+				$("#videoFrame").attr('src', 'index1.html');
+				
+			});
+			$("#vid2").click(function() {
+				$("#videoFrame").attr('src', 'index2.html');
+				
+			});
+			$("#vid3").click(function() {
+				$("#videoFrame").attr('src', 'index3.html');
+				
+			});
+			$("#vid4").click(function() {
+				$("#videoFrame").attr('src', 'index4.html');
+				
+			});
+			$("#vid5").click(function() {
+				$("#videoFrame").attr('src', 'index5.html');
+				
+			});
+		</script>
+
+	</body>
+</html>

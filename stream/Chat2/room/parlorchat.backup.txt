@@ -1,0 +1,2353 @@
+<span style='color:#aacc00'>testing </span>
+<span style='color:#aacc99'>testsssss </span>
+<span style='color:#aa0000'>helloooo </span>
+<span style='color:#aa0000'>yayyyy </span>
+<span style='color:#aacc99'>this workkkssss </span>
+<span style='color:#aa0000'>hiii </span>
+<span style='color:#aa0000'>yaaaaaassssssssss </span>
+<span style='color:#aacc99'>testing </span>
+<span style='color:#aa0000'>blehhhh </span>
+<span style='color:#aa0000'>testttt </span>
+<span style='color:#aa0000'>fasdfs </span>
+<span style='color:#aa0000'>dsadasdas </span>
+<span style='color:#aa0000'>gdfsgsgdf </span>
+<span style='color:#aa0000'>hi </span>
+<span style='color:#aacc99'>fdgfgdgh </span>
+<span style='color:#aacc99'>&lt; </span>
+<span style='color:#aacc99'>This is funnnn </span>
+<span style='color:#aacc99'>testing is testing </span>
+<span style='color:#aacc99'>two dollars is one dollar </span>
+<span style='color:#aacc99'>i don&#039;t know what else to say </span>
+<span style='color:#aacc99'>hi rob </span>
+<span style='color:#aacc99'></span>
+<span style='color:#aacc99'><img src='smiles/bigsmile.png'/> </span>
+<span style='color:#aacc99'>&lt; </span>
+<span style='color:#aacc99'>&gt; </span>
+<span style='color:#aacc99'><a href="http://madame.mindymosher.com/stream/" target="_blank">http://madame.mindymosher.com/stream/</a> </span>
+<span style='color:#aacc99'>&lt; 3 </span>
+<span style='color:#aacc99'></span>
+<span style='color:#aacc99'>&lt; </span>
+<span style='color:#aacc99'>&lt; </span>
+<span style='color:#aacc99'></span>
+<span style='color:#aacc99'>&lt; </span>
+<span style='color:#aacc99'>&lt;3 </span>
+<span style='color:#aacc99'><a href="http://madame.mindymosher.com/stream/" target="_blank">http://madame.mindymosher.com/stream/</a> </span>
+<span style='color:#aacc99'>&lt;tag&gt; hi &lt;/tag&gt; </span>
+<span style='color:#aacc99'>a </span>
+<span style='color:#aacc99'>b </span>
+<span style='color:#aacc99'>c </span>
+<span style='color:#aacc99'>d </span>
+<span style='color:#aacc99'>e </span>
+<span style='color:#aacc99'>f </span>
+<span style='color:#aacc99'>g </span>
+<span style='color:#aacc99'>h </span>
+<span style='color:#aacc99'>i </span>
+<span style='color:#aacc99'>j </span>
+<span style='color:#aacc99'>k </span>
+<span style='color:#aacc99'>l </span>
+<span style='color:#aacc99'>m </span>
+<span style='color:#aacc99'>n </span>
+<span style='color:#aacc99'>o </span>
+<span style='color:#aacc99'>p </span>
+<span style='color:#aacc99'>q </span>
+<span style='color:#aacc99'>r </span>
+<span style='color:#aacc99'>s </span>
+<span style='color:#aacc99'>t </span>
+<span style='color:#aacc99'>u </span>
+<span style='color:#aacc99'></span>
+<span style='color:#aacc99'></span>
+<span style='color:#aacc99'></span>
+<span style='color:#aacc99'></span>
+<span style='color:#aacc99'>real text </span>
+<span style='color:#aacc99'>it&#039;s happy </span>
+<span style='color:#aacc99'>text with </span>
+<span style='color:#aacc99'>dfasdf </span>
+<span style='color:#aacc99'><a href="http://madame.mindymosher.com/stream/" target="_blank">http://madame.mindymosher.com/stream/</a> </span>
+<span style='color:#aacc99'>I need some real text in here now </span>
+<span style='color:#aacc99'>this is for testing </span>
+<span style='color:#aacc99'>this is just for testing  </span>
+<span style='color:#aa0000'>this is also for testing </span>
+<span style='color:#aa0000'>this is a test that is for testing </span>
+<span data-uid='2' style='color:#aacc99'>testing the uid </span>
+<span data-uid='2' style='color:#aacc99'>does the uid work </span>
+<span data-uid='1' style='color:#aa0000'>testing testing </span>
+<span data-uid='3' style='color:#66cc00'>rawwwrrrr </span>
+<span data-uid='3' style='color:#66cc00'>lulz </span>
+<span data-uid='4' style='color:#aa3300'>wat </span>
+<span data-uid='2' style='color:#aacc99'>hi </span>
+<span data-uid='1' style='color:#aa0000'>this is a long sentence </span>
+<span data-uid='1' style='color:#aa0000'>dont argue with me, this is really a long sentence, i promise.  Seriously.  Stop touching me. </span>
+<span data-uid='1' style='color:#aa0000'>this is another long sentence </span>
+<span data-uid='1' style='color:#aa0000'>Hello </span>
+<span data-uid='1' style='color:#aa0000'>I want a different thing </span>
+<span data-uid='1' style='color:#aa0000'>This sentence should be medium of length </span>
+<span data-uid='2' style='color:#aacc99'>oh hello, this is something new </span>
+<span data-uid='2' style='color:#aacc99'>I AM IN A PRIVATE WINDOW. </span>
+<span data-uid='1' style='color:#aa0000'>whyyyyyy do you noooottt woooorrrkkkk </span>
+<span data-uid='2' style='color:#aacc99'>bleh </span>
+<span data-uid='1' style='color:#aa0000'>hi </span>
+<span data-uid='1' style='color:#aa0000'>hello </span>
+<span data-uid='2' style='color:#aacc99'>hi </span>
+<span data-uid='1' style='color:#aa0000'>yes hello this is spirit </span>
+<span data-uid='2' style='color:#aacc99'>haha </span>
+<span data-uid='2' style='color:#aacc99'>takuro spirit? </span>
+<span data-uid='2' style='color:#aacc99'>ugh </span>
+<span data-uid='2' style='color:#aacc99'>look at that lovely double chin </span>
+<span data-uid='2' style='color:#aacc99'>whaaattttt </span>
+<span data-uid='1' style='color:#aa0000'>test </span>
+<span data-uid='2' style='color:#aacc99'>hello </span>
+<span data-uid='1' style='color:#aa0000'>hi </span>
+<span data-uid='2' style='color:#aacc99'>blehhh </span>
+<span data-uid='1' style='color:#aa0000'>test </span>
+<span data-uid='2' style='color:#aacc99'>testing </span>
+<span data-uid='2' style='color:#aacc99'>hellooooooooo </span>
+<span data-uid='1' style='color:#aa0000'>hi </span>
+<span data-uid='1' style='color:#aa0000'>luff </span>
+<span data-uid='1' style='color:#aa0000'>test </span>
+<span data-uid='1' style='color:#aa0000'>test </span>
+<span data-uid='1' style='color:#aa0000'>test </span>
+<span data-uid='1' style='color:#aa0000'>test </span>
+<span data-uid='1' style='color:#aa0000'>test </span>
+<span data-uid='1' style='color:#aa0000'>test </span>
+<span data-uid='2' style='color:#aacc99'>asdf </span>
+<span data-uid='2' style='color:#aacc99'>asdg </span>
+<span data-uid='2' style='color:#aacc99'>test </span>
+<span data-uid='2' style='color:#aacc99'>hi </span>
+<span data-uid='2' style='color:#aacc99'>dsfg </span>
+<span data-uid='2' style='color:#aacc99'>balls </span>
+<span data-uid='2' style='color:#aacc99'>help let me out </span>
+<span data-uid='2' style='color:#aacc99'>asdf </span>
+<span data-uid='2' style='color:#aacc99'>gggg </span>
+<span data-uid='1' style='color:#aa0000'>asdf </span>
+<span data-uid='1' style='color:#aa0000'>asf </span>
+<span data-uid='1' style='color:#aa0000'>asdf </span>
+<span data-uid='1' style='color:#aa0000'>dfgh </span>
+<span data-uid='1' style='color:#aa0000'>asdfd </span>
+<span data-uid='1' style='color:#aa0000'>asdf </span>
+<span data-uid='1' style='color:#aa0000'>asdf </span>
+<span data-uid='2' style='color:#aacc99'>asdf </span>
+<span data-uid='1' style='color:#aa0000'>asdf </span>
+<span data-uid='2' style='color:#aacc99'>asdf </span>
+<span data-uid='1' style='color:#aa0000'>asdf </span>
+<span data-uid='2' style='color:#aacc99'>asdf </span>
+<span data-uid='1' style='color:#aa0000'>asdf </span>
+<span data-uid='1' style='color:#aa0000'>asdf </span>
+<span data-uid='2' style='color:#aacc99'>asdf </span>
+<span data-uid='1' style='color:#aa0000'>asdf </span>
+<span data-uid='2' style='color:#aacc99'>asdf </span>
+<span data-uid='1' style='color:#aa0000'>asdf </span>
+<span data-uid='2' style='color:#aacc99'>asdf </span>
+<span data-uid='2' style='color:#aacc99'>asdf </span>
+<span data-uid='1' style='color:#aa0000'>asdf </span>
+<span data-uid='1' style='color:#aa0000'>sdfg </span>
+<span data-uid='2' style='color:#aacc99'>gfsd </span>
+<span data-uid='1' style='color:#aa0000'>weeeeeeeeee </span>
+<span data-uid='1' style='color:#aa0000'>asdf </span>
+<span data-uid='2' style='color:#aacc99'>fdas </span>
+<span data-uid='2' style='color:#aacc99'>aaaa </span>
+<span data-uid='2' style='color:#aacc99'>hork </span>
+<span data-uid='1' style='color:#aa0000'>hi </span>
+<span data-uid='2' style='color:#aacc99'>omg </span>
+<span data-uid='1' style='color:#aa0000'>om </span>
+<span data-uid='2' style='color:#aacc99'>omg </span>
+<span data-uid='2' style='color:#aacc99'>omg </span>
+<span data-uid='2' style='color:#aacc99'>hi </span>
+<span data-uid='2' style='color:#aacc99'><img src='smiles/sad.png'/> </span>
+<span data-uid='1' style='color:#aa0000'>qq </span>
+<span data-uid='2' style='color:#aacc99'>qq </span>
+<span data-uid='2' style='color:#aacc99'>jo </span>
+<span data-uid='1' style='color:#aa0000'>hi </span>
+<span data-uid='2' style='color:#aacc99'>jo </span>
+<span data-uid='2' style='color:#aacc99'>asd </span>
+<span data-uid='2' style='color:#aacc99'>asdf </span>
+<span data-uid='1' style='color:#aa0000'>asdf </span>
+<span data-uid='2' style='color:#aacc99'>asfa </span>
+<span data-uid='2' style='color:#aacc99'>hi </span>
+<span data-uid='2' style='color:#aacc99'>sigh </span>
+<span data-uid='1' style='color:#aa0000'>qq </span>
+<span data-uid='16' style='color:#aacc00'>gr </span>
+<span data-uid='16' style='color:#aacc00'>o </span>
+<span data-uid='3' style='color:#66cc00'>o </span>
+<span data-uid='3' style='color:#66cc00'>fda </span>
+<span data-uid='4' style='color:#aa3300'>fda </span>
+<span data-uid='4' style='color:#aa3300'>sadf </span>
+<span data-uid='5' style='color:#11cc00'>asfasfa </span>
+<span data-uid='1' style='color:#aa0000'>fda </span>
+<span data-uid='5' style='color:#11cc00'>green </span>
+<span data-uid='6' style='color:#aacccc'>ff </span>
+<span data-uid='6' style='color:#aacccc'>green </span>
+<span data-uid='6' style='color:#aacccc'>blue </span>
+<span data-uid='1' style='color:#aa0000'>blue </span>
+<span data-uid='5' style='color:#11cc00'>omg </span>
+<span data-uid='5' style='color:#11cc00'>omg </span>
+<span data-uid='5' style='color:#11cc00'>omg </span>
+<span data-uid='5' style='color:#11cc00'>omg </span>
+<span data-uid='6' style='color:#aacccc'>sadf </span>
+<span data-uid='5' style='color:#11cc00'>asdf </span>
+<span data-uid='6' style='color:#aacccc'>asdf </span>
+<span data-uid='1' style='color:#aa0000'>asdf </span>
+<span data-uid='1' style='color:#aa0000'>asdf </span>
+<span data-uid='1' style='color:#aa0000'>asdf </span>
+<span data-uid='1' style='color:#aa0000'>sadfa </span>
+<span data-uid='1' style='color:#aa0000'>asdf </span>
+<span data-uid='5' style='color:#11cc00'>asdf </span>
+<span data-uid='5' style='color:#11cc00'>asdf </span>
+<span data-uid='2' style='color:#aacc99'>asdf </span>
+<span data-uid='2' style='color:#aacc99'>asdf </span>
+<span data-uid='2' style='color:#aacc99'>asdf </span>
+<span data-uid='1' style='color:#aa0000'>asdf </span>
+<span data-uid='1' style='color:#aa0000'>asdf </span>
+<span data-uid='2' style='color:#aacc99'>asdf </span>
+<span data-uid='2' style='color:#aacc99'>asdf </span>
+<span data-uid='4' style='color:#aa3300'>asdf </span>
+<span data-uid='3' style='color:#66cc00'>asdf </span>
+<span data-uid='1' style='color:#aa0000'>hi </span>
+<span data-uid='4' style='color:#aa3300'>hi </span>
+<span data-uid='4' style='color:#aa3300'>hi </span>
+<span data-uid='1' style='color:#aa0000'>hi </span>
+<span data-uid='2' style='color:#aacc99'>hi </span>
+<span data-uid='1' style='color:#aa0000'>hi </span>
+<span data-uid='1' style='color:#aa0000'>hi </span>
+<span data-uid='1' style='color:#aa0000'>It&#039;s close to midnight and something evil&#039;s lurking In the dark Under the moonlight you see a sight that almost stops Your heart You try to scream, but terror takes the sound before You make it You start to freeze as horror looks you right betwe</span>
+<span data-uid='2' class='tk-alternate-gothic-no-2-d'>did i totally  just break this </span>
+<span data-uid='2' class='tk-alternate-gothic-no-2-d'>it looks like maybe i did </span>
+<span data-uid='1' class='tk-de-walpergens-pica'>how about this </span>
+<span data-uid='1' class='tk-de-walpergens-pica'>and this </span>
+<span data-uid='2' class='tk-alternate-gothic-no-2-d'>testing </span>
+<span data-uid='2' class='radiantantique'>test </span>
+<span data-uid='2' class='tk-alternate-gothic-no-2-d'>blahhh </span>
+<span data-uid='2' class='yesteryear'>HOW ABOUT NOW </span>
+<span data-uid='2' class='yesteryear'>wow </span>
+<span data-uid='2' class='yesteryear'>that looks kind of nice </span>
+<span data-uid='2' class='yesteryear'>but it needs to be bigger </span>
+<span data-uid='1' class='oswald'>hello who am i </span>
+<span data-uid='1' class='oswald'>interesting </span>
+<span data-uid='1' class='oswald'>cool though </span>
+<span data-uid='2' class='yesteryear'>well that&#039;s nice </span>
+<span data-uid='1' class='oswald'>Test </span>
+<span data-uid='1' class='oswald'>Neat </span>
+<span data-uid='2' class='yesteryear'>blargo </span>
+<span data-uid='2' class='yesteryear'>hahaha </span>
+<span data-uid='2' class='yesteryear'>cool </span>
+<span data-uid='1' class='oswald'>hello </span>
+<span data-uid='1' class='oswald'>howdy, quaid </span>
+<span data-uid='1' class='oswald'>lol </span>
+<span data-uid='2' class='yesteryear'>oh it&#039;s the spirit of my love </span>
+<span data-uid='2' class='yesteryear'>hi love </span>
+<span data-uid='1' class='oswald'>hai </span>
+<span data-uid='2' class='yesteryear'>lol i can&#039;t send you hearts </span>
+<span data-uid='2' class='yesteryear'>&lt; 3 </span>
+<span data-uid='1' class='oswald'>uu </span>
+<span data-uid='2' class='yesteryear'>i had to put a space </span>
+<span data-uid='2' class='yesteryear'>haha </span>
+<span data-uid='2' class='yesteryear'>oh so </span>
+<span data-uid='2' class='yesteryear'>the weirdness with the dialog window over the video frame </span>
+<span data-uid='2' class='yesteryear'>doesn&#039;t happen on my mac </span>
+<span data-uid='1' class='oswald'>houston we have a problem </span>
+<span data-uid='1' class='oswald'>This is one heck of a ride the video is taking. <img src='smiles/smile.gif'/> </span>
+<span data-uid='3' class='slabo'>hahaha </span>
+<span data-uid='1' class='oswald'>I see another Munoz. </span>
+<span data-uid='1' class='oswald'>Stop staring at us. </span>
+<span data-uid='1' class='oswald'>Hi Mindy! </span>
+<span data-uid='1' class='oswald'>OMG Rob is wearing white </span>
+<span data-uid='3' class='slabo'>lololololol </span>
+<span data-uid='3' class='slabo'>hahahaha </span>
+<span data-uid='1' class='oswald'>Of course we are Mindy </span>
+<span data-uid='1' class='oswald'>WHy wouldnt we? </span>
+<span data-uid='1' class='oswald'>I am haunting chat. </span>
+<span data-uid='3' class='slabo'>tweet to #sstp to activate touija board </span>
+<span data-uid='1' class='oswald'>We heard! </span>
+<span data-uid='5' class='lora'>Muahaha. </span>
+<span data-uid='2' class='yesteryear'>sensing a presence </span>
+<span data-uid='2' class='yesteryear'>we can see you from beyond the present moment </span>
+<span data-uid='5' class='lora'>We see much </span>
+<span data-uid='4' class='seaweed'>Who summons me?! </span>
+<span data-uid='4' class='seaweed'>The key. The key fell behind the radiator. Tell Arthur </span>
+<span data-uid='2' class='yesteryear'>we are watching you  </span>
+<span data-uid='2' class='yesteryear'>you are not alone </span>
+<span data-uid='2' class='yesteryear'>I see you :3 </span>
+<span data-uid='10' class='yesteryear'>Hello from morrisville state college! </span>
+<span data-uid='1' class='oswald'>Rooobbbb... IPv6 will haunt the networkkkk </span>
+<span data-uid='1' class='oswald'>&quot;Stream not found&quot; <img src='smiles/sad.png'/> </span>
+<span data-uid='1' class='oswald'>No chat in here lately. </span>
+<span data-uid='1' class='oswald'>did i miss the thesis? </span>
+<span data-uid='4' class='seaweed'>Joseph killed me </span>
+<span data-uid='4' class='seaweed'>Oh hai thar </span>
+<span data-uid='5' class='lora'>Hi yourself! </span>
+<span data-uid='6' class='dynalight'>RAWR! </span>
+<span data-uid='4' class='seaweed'>II am having the best time watching everyone! </span>
+<span data-uid='6' class='dynalight'>This chat is pretty dope </span>
+<span data-uid='6' class='dynalight'>Hello </span>
+<span data-uid='5' class='lora'>/msg nyttt hi </span>
+<span data-uid='1' class='oswald'>Who likes body massages: </span>
+<span data-uid='1' class='oswald'>? </span>
+<span data-uid='6' class='dynalight'>I do </span>
+<span data-uid='1' class='oswald'>I left my pacemaker in Arizona </span>
+<span data-uid='2' class='yesteryear'>answer the phone </span>
+<span data-uid='1' class='oswald'>What did the chicken gizzard say to the travelling salesman? </span>
+<span data-uid='6' class='dynalight'>I dont know? what? </span>
+<span data-uid='1' class='oswald'>It said, &quot;Hey buddy, if you can hear me right now, you might have a brain tumor&quot; </span>
+<span data-uid='6' class='dynalight'>Haha </span>
+<span data-uid='1' class='oswald'>hehe </span>
+<span data-uid='1' class='oswald'>hoho! </span>
+<span data-uid='6' class='dynalight'>hehaha </span>
+<span data-uid='1' class='oswald'>Did you know that right now, you&#039;re secretly on a game show? </span>
+<span data-uid='5' class='lora'>What is this majyyk contraption? </span>
+<span data-uid='6' class='dynalight'>what? </span>
+<span data-uid='2' class='yesteryear'>I&#039;m trapped in the internets.. a world between worlds </span>
+<span data-uid='6' class='dynalight'>Me too </span>
+<span data-uid='2' class='yesteryear'>It&#039;s like I&#039;m trapped in a series of tubes </span>
+<span data-uid='6' class='dynalight'>who will save us? </span>
+<span data-uid='3' class='slabo'>We have naught but hope. Hold on, my friends! </span>
+<span data-uid='4' class='seaweed'>Spirited since 1969 </span>
+<span data-uid='6' class='dynalight'>Help mee </span>
+<span data-uid='6' class='dynalight'>Im trapped  </span>
+<span data-uid='8' class='allura'>The veil between us is thin tonight.   </span>
+<span data-uid='8' class='allura'>The children are afraid of the dark, so they run to the light </span>
+<span data-uid='8' class='allura'>The key.  You buried it with me.  It&#039;s in my jacket pocket. </span>
+<span data-uid='2' class='yesteryear'>Amityville nearby ?</span>
+<span data-uid='6' class='dynalight'>I want to be set free from here </span>
+<span data-uid='8' class='allura'>Only the dark ones without faces dwell here.  Beware.  Go to the light. </span>
+<span data-uid='3' class='slabo'>Abby </span>
+<span data-uid='8' class='allura'>Alma.  Speak to me. </span>
+<span data-uid='8' class='allura'>Mary.  Speak to me. </span>
+<span data-uid='2' class='yesteryear'>I am here - Mary </span>
+<span data-uid='8' class='allura'>DorisJean.  Speak to me. </span>
+<span data-uid='8' class='allura'>How will I know when you are near? </span>
+<span data-uid='6' class='dynalight'>Nathan is here </span>
+<span data-uid='8' class='allura'>Do you have goosebumps?  When you do, know I am near? </span>
+<span data-uid='8' class='allura'>Who has summoned me? </span>
+<span data-uid='3' class='slabo'>I am your third shadodw. </span>
+<span data-uid='8' class='allura'>You will be with me sooner than you know. </span>
+<span data-uid='6' class='dynalight'>I need someone to get me out of this limbo </span>
+<span data-uid='11' class='slabo'>lol </span>
+<span data-uid='6' class='dynalight'>save me </span>
+<span data-uid='6' class='dynalight'>PLEASE </span>
+<span data-uid='6' class='dynalight'>GET ME OUT OF HERE </span>
+<span data-uid='3' class='slabo'>Avoid the light. </span>
+<span data-uid='6' class='dynalight'>Why are all of you just sitting? </span>
+<span data-uid='3' class='slabo'>The spirits say Mindy&#039;s outfit is on point. </span>
+<span data-uid='6' class='dynalight'>Yes, It is </span>
+<span data-uid='6' class='dynalight'>GET ME OUT OF HERE </span>
+<span data-uid='6' class='dynalight'>YEs some one is still here </span>
+<span data-uid='4' class='seaweed'>This is another chat room. </span>
+<span data-uid='4' class='seaweed'>This  is not the chat room you are looking for.</span>
+<span data-uid='6' class='dynalight'>I am looking for my WIlson... is he there.  It&#039;s so dark here. </span>
+<span data-uid='9' class='oswald'>#sstp </span>
+<span data-uid='5' class='lora'>whatup motherfucker </span>
+<span data-uid='4' class='seaweed'>o shit i can type here lol  </span>
+<span data-uid='5' class='lora'>yeah dude </span>
+<span data-uid='5' class='lora'>the part thats  not here reads that shit </span>
+<span data-uid='5' class='lora'>when you hangin out lol </span>
+<span data-uid='4' class='seaweed'>i figured it would be on her web site  </span>
+<span data-uid='4' class='seaweed'>soon </span>
+<span data-uid='5' class='lora'>we started building this friday night </span>
+<span data-uid='4' class='seaweed'>dude i logged on and instantly saw you in the shot was like yep its tonight lol  </span>
+<span data-uid='4' class='seaweed'>no wasnt me  </span>
+<span data-uid='5' class='lora'>hah prob reid </span>
+<span data-uid='5' class='lora'>aight gonna close this pc up </span>
+<span data-uid='5' class='lora'>will check my phne </span>
+<span data-uid='4' class='seaweed'>word  </span>
+<span data-uid='2' class='yesteryear'>no one answers my calls just like real life =( </span>
+<span data-uid='3' class='slabo'>do not anger us </span>
+<span data-uid='3' class='slabo'>knock three times </span>
+<span data-uid='3' class='slabo'>Chapstick </span>
+<span data-uid='1' class='oswald'>hellooooo  </span>
+<span data-uid='1' class='oswald'>anyone out there </span>
+<span data-uid='2' class='yesteryear'>yep sup  </span>
+<span data-uid='1' class='oswald'>not much how are you </span>
+<span data-uid='2' class='yesteryear'>good you  </span>
+<span data-uid='1' class='oswald'>not too bad at all, thank you for asking </span>
+<span data-uid='1' class='oswald'>so how&#039;d you hear about this project </span>
+<span data-uid='2' class='yesteryear'>the artist is one of my best friends  </span>
+<span data-uid='2' class='yesteryear'>how bout you ? </span>
+<span data-uid='1' class='oswald'>I go to school with her </span>
+<span data-uid='1' class='oswald'>this is ridiculous </span>
+<span data-uid='2' class='yesteryear'>o nice nice  </span>
+<span data-uid='1' class='oswald'>so does she always do crazy projects like this? </span>
+<span data-uid='2' class='yesteryear'>i dont thinkk to this scale  </span>
+<span data-uid='1' class='oswald'>oh nice </span>
+<span data-uid='1' class='oswald'>so this is like the most advanced </span>
+<span data-uid='1' class='oswald'>it&#039;s pretty intense </span>
+<span data-uid='2' class='yesteryear'>umm id say more the largest scale she can do some really impressive things actually  </span>
+<span data-uid='1' class='oswald'>oh that&#039;s awesome </span>
+<span data-uid='1' class='oswald'>good for her </span>
+<span data-uid='2' class='yesteryear'>that you doing the weggee board ? </span>
+<span data-uid='1' class='oswald'>nope </span>
+<span data-uid='1' class='oswald'>i think it pulls from twitter though </span>
+<span data-uid='2' class='yesteryear'>ahh yea it might  </span>
+<span data-uid='1' class='oswald'>cool! </span>
+<span data-uid='3' class='slabo'>hello frens </span>
+<span data-uid='1' class='oswald'>haha hello </span>
+<span data-uid='2' class='yesteryear'>sup </span>
+<span data-uid='1' class='oswald'>hello </span>
+<span data-uid='1' class='oswald'>is there anybody out there </span>
+<span data-uid='2' class='yesteryear'>there is no pain you are receeding </span>
+<span data-uid='2' class='yesteryear'>ello all  </span>
+<span data-uid='1' class='oswald'>helloooo </span>
+<span data-uid='4' class='seaweed'>Argue for your limitations and they are yours </span>
+<span data-uid='3' class='slabo'>is that a bustle in your hedgerow? </span>
+<span data-uid='1' class='oswald'>don&#039;t be alarmed now </span>
+<span data-uid='1' class='oswald'>who&#039;s all here?! </span>
+<span data-uid='1' class='oswald'>so many spirits! </span>
+<span data-uid='5' class='lora'>im dead </span>
+<span data-uid='1' class='oswald'>haha </span>
+<span data-uid='6' class='dynalight'>i want to play a game.... </span>
+<span data-uid='5' class='lora'>im the spirit of black beard </span>
+<span data-uid='1' class='oswald'>hahaha </span>
+<span data-uid='6' class='dynalight'>run white girl run!! </span>
+<span data-uid='1' class='oswald'>what </span>
+<span data-uid='1' class='oswald'>haha </span>
+<span data-uid='7' class='playfair'>WHAAAA </span>
+<span data-uid='1' class='oswald'>lol kate is so unphased  </span>
+<span data-uid='6' class='dynalight'>im a ghost...i want chicken </span>
+<span data-uid='5' class='lora'>arrrgh </span>
+<span data-uid='5' class='lora'>where all dee pirates are </span>
+<span data-uid='5' class='lora'>this is a pirate gathering correct? </span>
+<span data-uid='1' class='oswald'>AYE </span>
+<span data-uid='1' class='oswald'>i wish there were more people in the space </span>
+<span data-uid='3' class='slabo'>so ronery </span>
+<span data-uid='3' class='slabo'><img src='smiles/sad.png'/> </span>
+<span data-uid='3' class='slabo'>:/ </span>
+<span data-uid='8' class='allura'>save me </span>
+<span data-uid='1' class='oswald'>hello spiritsssss </span>
+<span data-uid='1' class='oswald'>WELCOME TO mY HOusEEEEE </span>
+<span data-uid='7' class='playfair'>I am he great Cornholio! </span>
+<span data-uid='9' class='oswald'>I AM CAPTAIN UNDERPANTS! </span>
+<span data-uid='7' class='playfair'>black hat </span>
+<span data-uid='7' class='playfair'>help me </span>
+<span data-uid='3' class='slabo'>WHO DOESNT ANSWER A RINGING PHONE </span>
+<span data-uid='3' class='slabo'>WHAT KIND OF HEARTLESS MONSTER ARE YOU </span>
+<span data-uid='1' class='oswald'>hahaha he wouldn&#039;t answer the phone </span>
+<span data-uid='9' class='oswald'>HeLLO VLAD! </span>
+<span data-uid='7' class='playfair'>ojuiji broken? </span>
+<span data-uid='1' class='oswald'>no, it only goes every 5-10 minutes </span>
+<span data-uid='1' class='oswald'>there it goes </span>
+<span data-uid='7' class='playfair'>wooooooooooooooooo </span>
+<span data-uid='7' class='playfair'>booooooooooooooooooooooooooooooo </span>
+<span data-uid='3' class='slabo'>a/s/l? </span>
+<span data-uid='3' class='slabo'>ne chats? </span>
+<span data-uid='2' class='yesteryear'>7 people are still in here? </span>
+<span data-uid='2' class='yesteryear'>really </span>
+<span data-uid='3' class='slabo'>yeas </span>
+<span data-uid='3' class='slabo'>asl? </span>
+<span data-uid='3' class='slabo'>I am a meat popsicle </span>
+<span data-uid='7' class='playfair'>does this work too </span>
+<span data-uid='2' class='yesteryear'>of course </span>
+<span data-uid='7' class='playfair'>awesome! </span>
+<span data-uid='7' class='playfair'>no need to tweet since you are here </span>
+<span data-uid='5' class='lora'>hi </span>
+<span data-uid='5' class='lora'>hi hihi </span>
+<span data-uid='2' class='yesteryear'>helloooo </span>
+<span data-uid='7' class='playfair'>nice day </span>
+<span data-uid='7' class='playfair'>8 spirits present </span>
+<span data-uid='2' class='yesteryear'>most of us are lurking </span>
+<span data-uid='9' class='oswald'>#sstp </span>
+<span data-uid='2' class='yesteryear'>lol the artist is lurking </span>
+<span data-uid='2' class='yesteryear'>take that marina abramovich </span>
+<span data-uid='7' class='playfair'>#sstp is awesom </span>
+<span data-uid='2' class='yesteryear'>thank you! </span>
+<span data-uid='7' class='playfair'>the reaction  time is lightning quick today</span>
+<span data-uid='2' class='yesteryear'>there&#039;s probably less people on the site maybe? </span>
+<span data-uid='2' class='yesteryear'>i wasn&#039;t on the site last night so i can&#039;t compare </span>
+<span data-uid='7' class='playfair'>that would explain a lot </span>
+<span data-uid='7' class='playfair'>are the ouiji messages typed from the tweet only </span>
+<span data-uid='2' class='yesteryear'>yes and they&#039;re not guaranteed to be typed </span>
+<span data-uid='2' class='yesteryear'>but i might add the touija functionality to this site tonight </span>
+<span data-uid='7' class='playfair'>what&#039;s the delay between tweeting a msg and the ouiji actually spelling it out </span>
+<span data-uid='2' class='yesteryear'>the touija pulls the latest tweet with #sstp at a randomly selected number of minutes between 5 and10 </span>
+<span data-uid='7' class='playfair'>oh, okay... maybe you want to place a PLEASE DO NOT TOUCH message on the ouija board? </span>
+<span data-uid='2' class='yesteryear'>yeah i will </span>
+<span data-uid='2' class='yesteryear'>haha </span>
+<span data-uid='7' class='playfair'>Funny, one young male visitor was contorting his body looking under the table to figure out how it&#039;s working. </span>
+<span data-uid='2' class='yesteryear'>hahaha i saw him </span>
+<span data-uid='7' class='playfair'>cool </span>
+<span data-uid='2' class='yesteryear'>the electronics are hidden though </span>
+<span data-uid='2' class='yesteryear'>the touija table was going to have a vitrine to protect it </span>
+<span data-uid='2' class='yesteryear'>but in the interest of time and money, it got left off </span>
+<span data-uid='2' class='yesteryear'>i will put a message though </span>
+<span data-uid='7' class='playfair'>You did a great job all around. John &amp; I will be there on Thursday morning. </span>
+<span data-uid='2' class='yesteryear'>cool, i won&#039;t be there in person, but i will be in spirit </span>
+<span data-uid='2' class='yesteryear'>text me when you get there </span>
+<span data-uid='7' class='playfair'>Yes, that would be excellent... as someone needs to be here virtually to get the full affect. </span>
+<span data-uid='7' class='playfair'>Are the &quot;Spirits Present&quot; counting people in the room... or online? </span>
+<span data-uid='2' class='yesteryear'>online </span>
+<span data-uid='2' class='yesteryear'>haha </span>
+<span data-uid='7' class='playfair'>Are you in class now? </span>
+<span data-uid='2' class='yesteryear'>the people in the room are &quot;the living&quot; </span>
+<span data-uid='2' class='yesteryear'>no i&#039;m at home fixing the seance table </span>
+<span data-uid='2' class='yesteryear'>going to install it tonight </span>
+<span data-uid='7' class='playfair'>Oh.. I get it.   Oh... great... that&#039;s going into the sitting room? </span>
+<span data-uid='2' class='yesteryear'>the seance room in the back </span>
+<span data-uid='2' class='yesteryear'>with the creepy vibe </span>
+<span data-uid='2' class='yesteryear'>hahah </span>
+<span data-uid='7' class='playfair'>Nice... i mean creepy.. lol </span>
+<span data-uid='7' class='playfair'>I&#039;ve seen &#039;the living&#039; looking for the cameras.   </span>
+<span data-uid='2' class='yesteryear'>the living are a curious bunch </span>
+<span data-uid='6' class='dynalight'>timing people! timing!! </span>
+<span data-uid='9' class='oswald'>we need to wait and get their attention </span>
+<span data-uid='7' class='playfair'>yes, working together &amp; timing </span>
+<span data-uid='9' class='oswald'>i think hes going to come in here next </span>
+<span data-uid='9' class='oswald'>looks like she is expalining </span>
+<span data-uid='9' class='oswald'>her exhibit </span>
+<span data-uid='5' class='lora'>pressing everything at once works better </span>
+<span data-uid='7' class='playfair'>really </span>
+<span data-uid='7' class='playfair'>bombard the senses </span>
+<span data-uid='9' class='oswald'>dam her </span>
+<span data-uid='9' class='oswald'>he was coming </span>
+<span data-uid='7' class='playfair'>here we go </span>
+<span data-uid='2' class='yesteryear'>hahaha </span>
+<span data-uid='6' class='dynalight'>lol </span>
+<span data-uid='9' class='oswald'>fukery </span>
+<span data-uid='7' class='playfair'>wait until the seance table is in... you&#039;ll blow their socks off..lol </span>
+<span data-uid='9' class='oswald'>dam her </span>
+<span data-uid='9' class='oswald'>im out </span>
+<span data-uid='9' class='oswald'>gonna look for more victims </span>
+<span data-uid='9' class='oswald'>later </span>
+<span data-uid='7' class='playfair'>i think the phone is a hit because it&#039;s something they expect to touch </span>
+<span data-uid='9' class='oswald'>the dark room should have a doll </span>
+<span data-uid='9' class='oswald'>that blinks </span>
+<span data-uid='7' class='playfair'>chucky </span>
+<span data-uid='12' class='seaweed'>he ran away </span>
+<span data-uid='2' class='yesteryear'>hahahahahahahahaha </span>
+<span data-uid='9' class='oswald'>or stands up </span>
+<span data-uid='9' class='oswald'>not chucky </span>
+<span data-uid='12' class='seaweed'>oh my </span>
+<span data-uid='5' class='lora'>a clown </span>
+<span data-uid='7' class='playfair'>chucky isn&#039;t from the victorian era </span>
+<span data-uid='9' class='oswald'>like a girl doll </span>
+<span data-uid='5' class='lora'>homie dont play that </span>
+<span data-uid='2' class='yesteryear'>ok wait  </span>
+<span data-uid='2' class='yesteryear'>no one play the phone for a second </span>
+<span data-uid='2' class='yesteryear'>i have to get this security guard </span>
+<span data-uid='9' class='oswald'>leave phone </span>
+<span data-uid='2' class='yesteryear'>i know him  </span>
+<span data-uid='2' class='yesteryear'>actually you can  </span>
+<span data-uid='2' class='yesteryear'>it&#039;s fine </span>
+<span data-uid='2' class='yesteryear'>i&#039;ll send from the server </span>
+<span data-uid='7' class='playfair'>a china face girl doll with cracks in her porcelain and glowing eyes </span>
+<span data-uid='7' class='playfair'>coordinated chaos... i like it </span>
+<span data-uid='9' class='oswald'>DO you want to be my trap queen </span>
+<span data-uid='9' class='oswald'>lol </span>
+<span data-uid='9' class='oswald'>thats waht phone siad </span>
+<span data-uid='2' class='yesteryear'>hahahaha </span>
+<span data-uid='9' class='oswald'>dammit </span>
+<span data-uid='9' class='oswald'>i missed my bus </span>
+<span data-uid='9' class='oswald'>cus of this </span>
+<span data-uid='2' class='yesteryear'>sorry </span>
+<span data-uid='2' class='yesteryear'>! </span>
+<span data-uid='9' class='oswald'>ROFL </span>
+<span data-uid='7' class='playfair'>aww </span>
+<span data-uid='9' class='oswald'>there will be more buses </span>
+<span data-uid='2' class='yesteryear'>hahahaha </span>
+<span data-uid='4' class='seaweed'>in the next lifetime </span>
+<span data-uid='9' class='oswald'>asian girl is ruining it </span>
+<span data-uid='9' class='oswald'>she telling ppl what to dod </span>
+<span data-uid='9' class='oswald'>do </span>
+<span data-uid='9' class='oswald'>she needs to let them experience it on their own </span>
+<span data-uid='9' class='oswald'>also rooms need to say something like the haunted room outside </span>
+<span data-uid='9' class='oswald'>makes it even more scary </span>
+<span data-uid='5' class='lora'>i LOVE ASIAN GIRLS NAMED SUSZAN </span>
+<span data-uid='7' class='playfair'>this reminds me of the Jim Carey movie... where the whole town watched his life </span>
+<span data-uid='2' class='yesteryear'>hahahaha </span>
+<span data-uid='2' class='yesteryear'>oh man </span>
+<span data-uid='9' class='oswald'>asian girls named Suszan </span>
+<span data-uid='9' class='oswald'>blah </span>
+<span data-uid='9' class='oswald'>Chun Li </span>
+<span data-uid='9' class='oswald'>is a better name </span>
+<span data-uid='2' class='yesteryear'>haha </span>
+<span data-uid='7' class='playfair'>now now.. lets not generalize </span>
+<span data-uid='9' class='oswald'>spirts can have opions ppl </span>
+<span data-uid='9' class='oswald'>deuces </span>
+<span data-uid='7' class='playfair'>oh sh*t... in view 3 you can see a hand ... like it&#039;s waving .. near the phone..lol </span>
+<span data-uid='2' class='yesteryear'>hahaha </span>
+<span data-uid='2' class='yesteryear'>it&#039;s a palmistry hand </span>
+<span data-uid='4' class='seaweed'>be afraid </span>
+<span data-uid='7' class='playfair'>cool beans </span>
+<span data-uid='4' class='seaweed'>be very afraid </span>
+<span data-uid='7' class='playfair'>the touija board moves very quietly... nice job </span>
+<span data-uid='2' class='yesteryear'>it was so loud </span>
+<span data-uid='2' class='yesteryear'>haha thanks though! </span>
+<span data-uid='7' class='playfair'>it moves smoothly and quietly .. at least for us &#039;virtual spirits&#039; .. </span>
+<span data-uid='4' class='seaweed'>Camera 5 room needs some taxidermy </span>
+<span data-uid='4' class='seaweed'>a stuffed dog with big dark eyes </span>
+<span data-uid='2' class='yesteryear'>it will have something even better </span>
+<span data-uid='2' class='yesteryear'> his name is pat </span>
+<span data-uid='4' class='seaweed'>looking forward to the surprise </span>
+<span data-uid='2' class='yesteryear'>mess with him </span>
+<span data-uid='2' class='yesteryear'>awww </span>
+<span data-uid='4' class='seaweed'>more spirits than living  </span>
+<span data-uid='7' class='playfair'>Isnt that ususally the way </span>
+<span data-uid='4' class='seaweed'>true  </span>
+<span data-uid='4' class='seaweed'>especially in some classes </span>
+<span data-uid='7' class='playfair'>next victims&quot; </span>
+<span data-uid='12' class='seaweed'>YAY </span>
+<span data-uid='12' class='seaweed'>COME ON </span>
+<span data-uid='7' class='playfair'>another 1.5 hrs to go </span>
+<span data-uid='4' class='seaweed'>plenty of time for haunting </span>
+<span data-uid='7' class='playfair'>hooooooo </span>
+<span data-uid='12' class='seaweed'>wooooooooooooo </span>
+<span data-uid='7' class='playfair'>oh. excuse my grammar..lol </span>
+<span data-uid='4' class='seaweed'>:-oooooooo </span>
+<span data-uid='7' class='playfair'>what color lighting is in the sitting room... it looks purple on my pc </span>
+<span data-uid='7' class='playfair'>black lights? </span>
+<span data-uid='7' class='playfair'>how many other projects are sharing the space? </span>
+<span data-uid='4' class='seaweed'>2 thesis shows in gallery </span>
+<span data-uid='2' class='yesteryear'>it&#039;s an infrared camera </span>
+<span data-uid='2' class='yesteryear'>with an infrared flood light </span>
+<span data-uid='2' class='yesteryear'>because it&#039;s really dark in there </span>
+<span data-uid='4' class='seaweed'>of course! </span>
+<span data-uid='4' class='seaweed'>how else would you see the spirits in there? </span>
+<span data-uid='7' class='playfair'>Perfect </span>
+<span data-uid='2' class='yesteryear'>so all semester i had these cameras up in my studio for testing </span>
+<span data-uid='2' class='yesteryear'>and it is really hard not to just like </span>
+<span data-uid='2' class='yesteryear'>watch who goes by </span>
+<span data-uid='7' class='playfair'>no kidding...  </span>
+<span data-uid='7' class='playfair'>especially for people watching people </span>
+<span data-uid='4' class='seaweed'>victorian  surveillance</span>
+<span data-uid='4' class='seaweed'>it&#039;s even better to mess with them </span>
+<span data-uid='7' class='playfair'>that&#039;s what that era was all about... appearances </span>
+<span data-uid='2' class='yesteryear'>exxactlyyyyyy </span>
+<span data-uid='2' class='yesteryear'>it&#039;s a really good allegory for the internet..... which is what my thesis is really about </span>
+<span data-uid='2' class='yesteryear'>:] </span>
+<span data-uid='2' class='yesteryear'><img src='smiles/smile.gif'/> </span>
+<span data-uid='4' class='seaweed'>and there is that lovely yellow wallpaper reference too </span>
+<span data-uid='2' class='yesteryear'>yayyyy </span>
+<span data-uid='2' class='yesteryear'>i hoped people would pick up on that </span>
+<span data-uid='7' class='playfair'>whether you were a heathen or into s&amp;m.. appearances were all that mattered. </span>
+<span data-uid='7' class='playfair'>what&#039;s with the yellow wallpaper? </span>
+<span data-uid='2' class='yesteryear'>there&#039;s a lot of little nods there </span>
+<span data-uid='2' class='yesteryear'>there&#039;s a victorian semi autobiographical short story from the 1890&#039;s called the yellow wallpaper </span>
+<span data-uid='2' class='yesteryear'>totally worth the read </span>
+<span data-uid='7' class='playfair'>guess I&#039;ll need to find it &amp; educate myself </span>
+<span data-uid='2' class='yesteryear'>i&#039;m sure you can find it online </span>
+<span data-uid='2' class='yesteryear'>i listened to it on scrib&#039;d </span>
+<span data-uid='2' class='yesteryear'>i highly recommend that method, the woman who read it was believable as victorian </span>
+<span data-uid='2' class='yesteryear'>i was totally immersed </span>
+<span data-uid='7' class='playfair'>found it.. got the pdf </span>
+<span data-uid='2' class='yesteryear'>nice </span>
+<span data-uid='7' class='playfair'>&quot;I am sitting by the Window in this Atrocious Nursery.&quot; </span>
+<span data-uid='7' class='playfair'>Why do people feel the need to lift the pointer off the tjouija board.  Oh my goodness. </span>
+<span data-uid='2' class='yesteryear'>hahaha </span>
+<span data-uid='2' class='yesteryear'>it&#039;s ok it&#039;s magnetic </span>
+<span data-uid='7' class='playfair'>Want to telephone &quot;Don&#039;t touch you b*tch&quot; </span>
+<span data-uid='7' class='playfair'>but not sure if she&#039;ll be the one to get the message </span>
+<span data-uid='4' class='seaweed'>ha ha ha ha </span>
+<span data-uid='7' class='playfair'>it will be interesting just compiling data from visitors to incorporate into your thesis paper. </span>
+<span data-uid='2' class='yesteryear'>yep. i&#039;m recording the streams and the chat is being logged </span>
+<span data-uid='7' class='playfair'>Maybe I&#039;ll send the message to the touija board &quot;dont touch me&quot;..lol </span>
+<span data-uid='3' class='slabo'> How do you trigger the ouija board? I don&#039;t see an icon for it. </span>
+<span data-uid='7' class='playfair'>tweet a message to #sstp </span>
+<span data-uid='3' class='slabo'>Got it, thanks Mindy! </span>
+<span data-uid='7' class='playfair'>scroll up..for info.. how often the board &#039;types&#039; a message </span>
+<span data-uid='7' class='playfair'>this could be a tv channel..lol </span>
+<span data-uid='7' class='playfair'>i wouldn&#039;t mind having it on  </span>
+<span data-uid='7' class='playfair'>yes </span>
+<span data-uid='7' class='playfair'>success </span>
+<span data-uid='7' class='playfair'>i can&#039;t wait to see visitors reactions to the seance table... this is gonna be so much more outrageous </span>
+<span data-uid='2' class='yesteryear'>haha </span>
+<span data-uid='7' class='playfair'>the lady sitting has on headphones.. she&#039;s not getting the total affect </span>
+<span data-uid='7' class='playfair'>how rude </span>
+<span data-uid='2' class='yesteryear'>she was here earlier </span>
+<span data-uid='2' class='yesteryear'>she was all into it and it looks like she brought new people this time </span>
+<span data-uid='7' class='playfair'>oh.. so she  brought a friend to experience this... nice </span>
+<span data-uid='2' class='yesteryear'>so it&#039;s all good </span>
+<span data-uid='7' class='playfair'>yes, yes, yes </span>
+<span data-uid='4' class='seaweed'>the phone said &quot;DONT GO AWAY!&quot; </span>
+<span data-uid='2' class='yesteryear'>and then she went away </span>
+<span data-uid='4' class='seaweed'>not a good listener </span>
+<span data-uid='4' class='seaweed'>it&#039;s hard for the spirits to make contact with this generation </span>
+<span data-uid='7' class='playfair'>exactly.. is the voice very clear... oh .. she&#039;s back </span>
+<span data-uid='2' class='yesteryear'>i put some more sound clips </span>
+<span data-uid='2' class='yesteryear'>i&#039;ll probably add more </span>
+<span data-uid='2' class='yesteryear'>there&#039;s 3 now </span>
+<span data-uid='7' class='playfair'>cool </span>
+<span data-uid='7' class='playfair'>interesting how no one stays in the sitting room... i know its dark there.. but if your texting it would be a good place to read your phone.. the room must creep people out.. good job </span>
+<span data-uid='2' class='yesteryear'>lol thx </span>
+<span data-uid='7' class='playfair'>the decor in each room is so authentic.. they look like real livable rooms.. the window frames with cornices, if that&#039;s what you call them.. are so real. </span>
+<span data-uid='2' class='yesteryear'>hahaha thanks </span>
+<span data-uid='7' class='playfair'>You made Aunt Gail proud..that&#039;s the type of woodworking she&#039;s working on for her doorframes &amp; windowframes. </span>
+<span data-uid='2' class='yesteryear'>oof </span>
+<span data-uid='2' class='yesteryear'>it was just stuff from home depot </span>
+<span data-uid='7' class='playfair'>it works well </span>
+<span data-uid='7' class='playfair'>visitors </span>
+<span data-uid='2' class='yesteryear'>the sound on the ir cam is so much better </span>
+<span data-uid='2' class='yesteryear'>than the other one </span>
+<span data-uid='4' class='seaweed'>creepy too </span>
+<span data-uid='7' class='playfair'>we have a repeat customer </span>
+<span data-uid='7' class='playfair'>do the phone messages stack if no one answers the phone? </span>
+<span data-uid='2' class='yesteryear'>no </span>
+<span data-uid='2' class='yesteryear'>they are lost </span>
+<span data-uid='7' class='playfair'>that&#039;s okay... that way hopefully the person meant to get the message will hear it and not someone other than intended </span>
+<span data-uid='2' class='yesteryear'>yeah they&#039;re lost on purpose </span>
+<span data-uid='7' class='playfair'>very wise of you.. see how the lady gave the phone to a child to hear the message when she doesn&#039;t even know what the message is </span>
+<span data-uid='7' class='playfair'>people in the room are too trusting.. not wary enough.. like people accepting what&#039;s online as veritable truth..just because it&#039;s online </span>
+<span data-uid='7' class='playfair'>i gotta go.. will tune in tomorrow.. </span>
+<span data-uid='2' class='yesteryear'>lol later! </span>
+<span data-uid='2' class='yesteryear'>You are not alone. There are others. </span>
+<span data-uid='2' class='yesteryear'>Why are there 4 spirits in the room when the exhibit is closed? </span>
+<span data-uid='2' class='yesteryear'>oooooo..the room is haunted </span>
+<span data-uid='2' class='yesteryear'>interesting.. there is a dark shadow by the right window behind the chair.. hmmmm </span>
+<span data-uid='2' class='yesteryear'>6 spirits... guess we can have fun without the living...lol </span>
+<span data-uid='2' class='yesteryear'>no one is there to answer the phone </span>
+<span data-uid='2' class='yesteryear'>wonder what the touija board is spelling out now? </span>
+<span data-uid='2' class='yesteryear'>now 5 spirits present... cool.. we can have a virtual party </span>
+<span data-uid='2' class='yesteryear'>&lt; </span>
+<span data-uid='2' class='yesteryear'>SS̢̬̙̪̦Ṱ̱̩͔̪͉̘P̱̪̝̥:̻̩̜̼͢ͅ ̗̠̝̲͟S̬o̟̙̜̗̯̗̪c̸͖͙͉͚͇̼i̠̹̘̟̞a̶̤͔̲l ̰̫͍̠S̵̰͙p̭̕i̵̳̼r̩̟͎͇̱ḭ̬͎͖̞̱t̜̀u̷̥̱͙̯̼̖̺a̗̲͉̪̻͔͙͞l͎̪̗͠ ̯̞̗̫̙Ṭ̯̀r̷̞̮͚a̵͎n͚͚̝̯</span>
+<span data-uid='4' class='seaweed'>Wingdings! </span>
+<span data-uid='4' class='seaweed'>windings from beyond the grave </span>
+<span data-uid='2' class='yesteryear'>hahaha </span>
+<span data-uid='2' class='yesteryear'>what is that </span>
+<span data-uid='2' class='yesteryear'>hi </span>
+<span data-uid='5' class='lora'>hello </span>
+<span data-uid='2' class='yesteryear'>boo! </span>
+<span data-uid='2' class='yesteryear'>boooooooooooOOoooo </span>
+<span data-uid='2' class='yesteryear'>Why does haunting have a bedtime? </span>
+<span data-uid='2' class='yesteryear'>ghosts gotta sleep </span>
+<span data-uid='2' class='yesteryear'>Hello Kate </span>
+<span data-uid='2' class='yesteryear'>Yeah It&#039;s me </span>
+<span data-uid='2' class='yesteryear'>That&#039;s not me </span>
+<span data-uid='2' class='yesteryear'>no punctuation  </span>
+<span data-uid='2' class='yesteryear'>turn on the lamp in the other room please </span>
+<span data-uid='5' class='lora'>turn your hat around </span>
+<span data-uid='5' class='lora'>your hat looks stupid </span>
+<span data-uid='5' class='lora'>lol </span>
+<span data-uid='5' class='lora'>i wonder if they know theyre being watched </span>
+<span data-uid='1' class='oswald'>nope the cameras are behind a one way mirror - they think they are just in a gallary... </span>
+<span data-uid='5' class='lora'>whos here </span>
+<span data-uid='5' class='lora'>im so lonely </span>
+<span data-uid='5' class='lora'>youre creepy </span>
+<span data-uid='5' class='lora'>im not creepy </span>
+<span data-uid='5' class='lora'>told hi m he had a nice hat h</span>
+<span data-uid='5' class='lora'>es bugging out </span>
+<span data-uid='6' class='dynalight'>ooooooooooooooooOOOOOooooooo </span>
+<span data-uid='6' class='dynalight'>I CAN SEE YOU... </span>
+<span data-uid='7' class='playfair'>boooya </span>
+<span data-uid='5' class='lora'>what up </span>
+<span data-uid='7' class='playfair'>as in booooo .. ya&#039;ll </span>
+<span data-uid='5' class='lora'>you got a perty mouth </span>
+<span data-uid='5' class='lora'>need more victims.. i mean visitors </span>
+<span data-uid='3' class='slabo'>meow </span>
+<span data-uid='5' class='lora'>did you just say ... meow? </span>
+<span data-uid='2' class='yesteryear'>Hello Everyone </span>
+<span data-uid='5' class='lora'>hi </span>
+<span data-uid='2' class='yesteryear'>How are you all? </span>
+<span data-uid='2' class='yesteryear'>Nice jacket </span>
+<span data-uid='8' class='allura'>ghosts are real </span>
+<span data-uid='2' class='yesteryear'>How are you? </span>
+<span data-uid='8' class='allura'>carla </span>
+<span data-uid='5' class='lora'>not alive </span>
+<span data-uid='8' class='allura'>carla! </span>
+<span data-uid='6' class='dynalight'>come play with us </span>
+<span data-uid='2' class='yesteryear'>Hello </span>
+<span data-uid='8' class='allura'>come into this room </span>
+<span data-uid='2' class='yesteryear'>How are you? </span>
+<span data-uid='8' class='allura'>white looks nice on you </span>
+<span data-uid='2' class='yesteryear'>We are coming for you </span>
+<span data-uid='2' class='yesteryear'>Come play with us </span>
+<span data-uid='5' class='lora'>carla we see you </span>
+<span data-uid='2' class='yesteryear'>nice hair </span>
+<span data-uid='5' class='lora'>hello mindy </span>
+<span data-uid='2' class='yesteryear'>I like your glasses4 </span>
+<span data-uid='2' class='yesteryear'>Carla where is carla? </span>
+<span data-uid='2' class='yesteryear'>are you laughing at me? </span>
+<span data-uid='7' class='playfair'>Boom!! </span>
+<span data-uid='2' class='yesteryear'>Booooooooo </span>
+<span data-uid='2' class='yesteryear'>save us from this hell </span>
+<span data-uid='5' class='lora'>there is no linda, only zool </span>
+<span data-uid='8' class='allura'>CARLA </span>
+<span data-uid='2' class='yesteryear'>Mindyyyy </span>
+<span data-uid='8' class='allura'>the spitits dont like laughter </span>
+<span data-uid='5' class='lora'>push harder weaklings </span>
+<span data-uid='7' class='playfair'>Who are you there </span>
+<span data-uid='8' class='allura'>carla pick up the phone </span>
+<span data-uid='6' class='dynalight'>Hey Qin! </span>
+<span data-uid='9' class='oswald'>neat </span>
+<span data-uid='9' class='oswald'>hey </span>
+<span data-uid='9' class='oswald'>hello </span>
+<span data-uid='7' class='playfair'>Come back! </span>
+<span data-uid='9' class='oswald'>don&#039;t take pictures of me </span>
+<span data-uid='3' class='slabo'>i see you  </span>
+<span data-uid='8' class='allura'>hein  </span>
+<span data-uid='8' class='allura'>nathan </span>
+<span data-uid='9' class='oswald'>nathan get your fro back here </span>
+<span data-uid='11' class='slabo'>mindy this is great </span>
+<span data-uid='8' class='allura'>stop leaning in </span>
+<span data-uid='8' class='allura'>that doesnt help anything </span>
+<span data-uid='8' class='allura'>the table is broken </span>
+<span data-uid='8' class='allura'>just kidding </span>
+<span data-uid='8' class='allura'>rise one hand up in the air </span>
+<span data-uid='8' class='allura'>like you just dont care </span>
+<span data-uid='8' class='allura'>linda you are being watched </span>
+<span data-uid='5' class='lora'>nice hair guy </span>
+<span data-uid='8' class='allura'>no dont leave </span>
+<span data-uid='8' class='allura'>we need you here </span>
+<span data-uid='8' class='allura'>like the ketchup right?  </span>
+<span data-uid='8' class='allura'>sorry we arent very talkative right now </span>
+<span data-uid='8' class='allura'>guys get back to class </span>
+<span data-uid='5' class='lora'>seances are hard </span>
+<span data-uid='5' class='lora'>seances are very hard </span>
+<span data-uid='8' class='allura'>seriously we are trying to do work here </span>
+<span data-uid='8' class='allura'>but you guys are distracting us </span>
+<span data-uid='8' class='allura'>it is too fun to be a ghost </span>
+<span data-uid='5' class='lora'>who farted? </span>
+<span data-uid='8' class='allura'>knock knock </span>
+<span data-uid='10' class='yesteryear'>*raises hand* </span>
+<span data-uid='8' class='allura'>canoe </span>
+<span data-uid='8' class='allura'>knock  knock </span>
+<span data-uid='5' class='lora'>who farted </span>
+<span data-uid='8' class='allura'>canoe </span>
+<span data-uid='5' class='lora'>it was mindy </span>
+<span data-uid='3' class='slabo'>hi </span>
+<span data-uid='10' class='yesteryear'>mindy marjorie says hi </span>
+<span data-uid='8' class='allura'>canoe get back to class we miss you here </span>
+<span data-uid='3' class='slabo'>this is coolio </span>
+<span data-uid='10' class='yesteryear'>want to hear a joke? </span>
+<span data-uid='8' class='allura'>goodnight moon </span>
+<span data-uid='9' class='oswald'>boo </span>
+<span data-uid='10' class='yesteryear'>I want to play a game </span>
+<span data-uid='5' class='lora'>nobody wants to listen to us </span>
+<span data-uid='10' class='yesteryear'>hello clarice </span>
+<span data-uid='9' class='oswald'>I died today </span>
+<span data-uid='5' class='lora'>so i ate his liver </span>
+<span data-uid='10' class='yesteryear'>i got ran over by a squirrel </span>
+<span data-uid='9' class='oswald'>why does no one love me </span>
+<span data-uid='10' class='yesteryear'>because you&#039;re fat </span>
+<span data-uid='3' class='slabo'>there is reason no one loves you </span>
+<span data-uid='9' class='oswald'>fight me other ghost </span>
+<span data-uid='10' class='yesteryear'>i just want some bacon  </span>
+<span data-uid='10' class='yesteryear'>bring it lower ghost  </span>
+<span data-uid='3' class='slabo'>odd people </span>
+<span data-uid='5' class='lora'>ROUND ONE </span>
+<span data-uid='5' class='lora'>FIGHT </span>
+<span data-uid='3' class='slabo'>ding ding ding </span>
+<span data-uid='10' class='yesteryear'>do you want to hear a joke? </span>
+<span data-uid='9' class='oswald'>swoot swoot swoot swoot swoot </span>
+<span data-uid='3' class='slabo'>booooo </span>
+<span data-uid='10' class='yesteryear'>woah calm down  </span>
+<span data-uid='9' class='oswald'>swoot swoot swoot swoot swoot swoot swoot swoot swoot swoot swoot swoot swoot swoot swoot </span>
+<span data-uid='3' class='slabo'>where is the joke </span>
+<span data-uid='5' class='lora'>other ghost is retarded </span>
+<span data-uid='5' class='lora'>your face </span>
+<span data-uid='10' class='yesteryear'>whats a ghost favorite dessert? </span>
+<span data-uid='10' class='yesteryear'>Ice Scream </span>
+<span data-uid='3' class='slabo'>hahahahhahah </span>
+<span data-uid='3' class='slabo'>listen </span>
+<span data-uid='10' class='yesteryear'>where do ghost mail their letters? </span>
+<span data-uid='3' class='slabo'>where? </span>
+<span data-uid='3' class='slabo'>TELL ME </span>
+<span data-uid='3' class='slabo'>hello spirits </span>
+<span data-uid='4' class='seaweed'>at the ghost office </span>
+<span data-uid='3' class='slabo'>thank you for making our experience awesome </span>
+<span data-uid='5' class='lora'>THE POWER OF CHRIST COMPELS YOU </span>
+<span data-uid='4' class='seaweed'>AUNTIE EM IS HERE </span>
+<span data-uid='4' class='seaweed'>still here </span>
+<span data-uid='4' class='seaweed'>dont be scared </span>
+<span data-uid='1' class='oswald'>haha helloooo </span>
+<span data-uid='1' class='oswald'>We are watching you </span>
+<span data-uid='2' class='yesteryear'>Hello</span>
+<span data-uid='2' class='yesteryear'>I am coming to get you </span>
+<span data-uid='1' class='oswald'>You are being watched </span>
+<span data-uid='2' class='yesteryear'>We are here </span>
+<span data-uid='2' class='yesteryear'>I want your soul </span>
+<span data-uid='1' class='oswald'>we are watching you </span>
+<span data-uid='1' class='oswald'>get more people to participate </span>
+<span data-uid='2' class='yesteryear'>I like your white watch </span>
+<span data-uid='4' class='seaweed'>I WANT YOUR SOUL </span>
+<span data-uid='2' class='yesteryear'>Nice glasses </span>
+<span data-uid='1' class='oswald'>don&#039;t laugh i&#039;m serious </span>
+<span data-uid='4' class='seaweed'>PUNKS </span>
+<span data-uid='6' class='dynalight'>They Live </span>
+<span data-uid='1' class='oswald'>Sometimes they come back </span>
+<span data-uid='1' class='oswald'>get more people to help us be stronger </span>
+<span data-uid='2' class='yesteryear'>I am coming for you </span>
+<span data-uid='4' class='seaweed'>I WILL EAT YOUR SOUL </span>
+<span data-uid='2' class='yesteryear'>I want your soul </span>
+<span data-uid='2' class='yesteryear'>Join us </span>
+<span data-uid='1' class='oswald'>join us </span>
+<span data-uid='4' class='seaweed'>push harder </span>
+<span data-uid='2' class='yesteryear'>Join us </span>
+<span data-uid='1' class='oswald'>more people needed for more volume </span>
+<span data-uid='2' class='yesteryear'>from the beyond </span>
+<span data-uid='4' class='seaweed'>I BET YOU TASTE LIKE CHICKEN </span>
+<span data-uid='6' class='dynalight'>we are from the net... come </span>
+<span data-uid='4' class='seaweed'>THE POWER OF CHRIST COMPELS YOU </span>
+<span data-uid='2' class='yesteryear'>I want you to become apart of us </span>
+<span data-uid='1' class='oswald'>join us </span>
+<span data-uid='2' class='yesteryear'>I want your soul </span>
+<span data-uid='6' class='dynalight'>we love you </span>
+<span data-uid='1' class='oswald'>soon you will be with us </span>
+<span data-uid='2' class='yesteryear'>I want to eat you </span>
+<span data-uid='2' class='yesteryear'>come here </span>
+<span data-uid='1' class='oswald'>don&#039;t turn around </span>
+<span data-uid='4' class='seaweed'>im right behind you </span>
+<span data-uid='2' class='yesteryear'>i like your curly hair </span>
+<span data-uid='2' class='yesteryear'>I want you to join us </span>
+<span data-uid='1' class='oswald'>you can not see us, but we are here </span>
+<span data-uid='4' class='seaweed'>you cant see me, but im there </span>
+<span data-uid='2' class='yesteryear'>from the beyond </span>
+<span data-uid='1' class='oswald'>you are not alone </span>
+<span data-uid='2' class='yesteryear'>We are here </span>
+<span data-uid='1' class='oswald'>we are with you </span>
+<span data-uid='2' class='yesteryear'>all around you </span>
+<span data-uid='4' class='seaweed'>whats your name? </span>
+<span data-uid='2' class='yesteryear'>stop looking  </span>
+<span data-uid='6' class='dynalight'>we&#039;ll love you forever.... come </span>
+<span data-uid='2' class='yesteryear'>I will get you </span>
+<span data-uid='2' class='yesteryear'>You will join us </span>
+<span data-uid='2' class='yesteryear'>soon </span>
+<span data-uid='2' class='yesteryear'>very soon </span>
+<span data-uid='1' class='oswald'>Do not look behind the curtain </span>
+<span data-uid='2' class='yesteryear'>you wont find us </span>
+<span data-uid='1' class='oswald'>Pay no attention to the electronics under the table </span>
+<span data-uid='2' class='yesteryear'>we are all around you </span>
+<span data-uid='4' class='seaweed'>shh </span>
+<span data-uid='4' class='seaweed'>everywhere </span>
+<span data-uid='2' class='yesteryear'>Speak to us </span>
+<span data-uid='1' class='oswald'>ask us questions </span>
+<span data-uid='2' class='yesteryear'>SAY SOMETHING </span>
+<span data-uid='2' class='yesteryear'>Hello </span>
+<span data-uid='4' class='seaweed'>hi </span>
+<span data-uid='1' class='oswald'>hello </span>
+<span data-uid='3' class='slabo'>Hi </span>
+<span data-uid='2' class='yesteryear'>How old are you? </span>
+<span data-uid='1' class='oswald'>we are pratt legion </span>
+<span data-uid='4' class='seaweed'>your time is almost up </span>
+<span data-uid='2' class='yesteryear'>ohhh a young soul </span>
+<span data-uid='2' class='yesteryear'>I want it </span>
+<span data-uid='4' class='seaweed'>tasty </span>
+<span data-uid='2' class='yesteryear'>you will be apart of us soon </span>
+<span data-uid='4' class='seaweed'>eat the soul </span>
+<span data-uid='2' class='yesteryear'>If I have my wsay </span>
+<span data-uid='2' class='yesteryear'>I need the living to use as my tool </span>
+<span data-uid='1' class='oswald'>hahaha </span>
+<span data-uid='2' class='yesteryear'>nice tseance table in the sitting room </span>
+<span data-uid='2' class='yesteryear'>my ghoulish shadow is present </span>
+<span data-uid='2' class='yesteryear'>how is the table activated? </span>
+<span data-uid='2' class='yesteryear'>cool </span>
+<span data-uid='2' class='yesteryear'>why doesn&#039;t she use both hands </span>
+<span data-uid='2' class='yesteryear'>silly living beings </span>
+<span data-uid='2' class='yesteryear'>don&#039;t know how to follow instructions, my phone msg was &quot;put both hands on the table&quot; </span>
+<span data-uid='2' class='yesteryear'>i like camera  </span>
+<span data-uid='2' class='yesteryear'>camera #2 view is great today </span>
+<span data-uid='2' class='yesteryear'>artist creator is in the room </span>
+<span data-uid='2' class='yesteryear'>3 other spirits....what say you? </span>
+<span data-uid='3' class='slabo'>Hello from beyond </span>
+<span data-uid='2' class='yesteryear'>is this considered voyuerism? </span>
+<span data-uid='3' class='slabo'>Yes </span>
+<span data-uid='4' class='seaweed'>im hard </span>
+<span data-uid='2' class='yesteryear'>i think i like it..lol </span>
+<span data-uid='3' class='slabo'>hehe </span>
+<span data-uid='2' class='yesteryear'>when 4 of the living sit at table the center orb is not visible... </span>
+<span data-uid='3' class='slabo'>that is true </span>
+<span data-uid='2' class='yesteryear'>and reaction of that person cannot be seen </span>
+<span data-uid='2' class='yesteryear'>what is the reward of 4 living souls sitting at table? </span>
+<span data-uid='3' class='slabo'>We are louder and they cah hear us better </span>
+<span data-uid='2' class='yesteryear'>oh... we.. being the chat room? </span>
+<span data-uid='3' class='slabo'>yes </span>
+<span data-uid='2' class='yesteryear'>Awesome!!! </span>
+<span data-uid='3' class='slabo'>yeah, when they go into the room we talk about them </span>
+<span data-uid='2' class='yesteryear'>cool... </span>
+<span data-uid='2' class='yesteryear'>is the sitting room the 1st room entered or the last </span>
+<span data-uid='1' class='oswald'>The sitting room is first. </span>
+<span data-uid='3' class='slabo'>1st. then the dark room </span>
+<span data-uid='3' class='slabo'>yes* </span>
+<span data-uid='2' class='yesteryear'>guess people tend to avoid a dark room.. </span>
+<span data-uid='3' class='slabo'>no, people do go, but the artist is the one talking now </span>
+<span data-uid='2' class='yesteryear'>so focus is understandably elsewhere </span>
+<span data-uid='3' class='slabo'>yes </span>
+<span data-uid='2' class='yesteryear'>oh.. the orb glows on its own.. to draw attention.. </span>
+<span data-uid='3' class='slabo'>no, it only glows when people have their hands on the metal hands </span>
+<span data-uid='2' class='yesteryear'>i saw it glow by itself.. unless that was a reflection of the flickering lights </span>
+<span data-uid='2' class='yesteryear'>ooooo....do people feel a slight shock or vibration when putting hands on table </span>
+<span data-uid='2' class='yesteryear'>the living soul by the phone is getting annoyed by the ringing phone...we are distracting  </span>
+<span data-uid='1' class='oswald'>Cameras can detect people who go into the dark room. </span>
+<span data-uid='3' class='slabo'>your hand vibrates when you touch it </span>
+<span data-uid='2' class='yesteryear'>nice touch.. a play on words..lol </span>
+<span data-uid='3' class='slabo'>hehe </span>
+<span data-uid='3' class='slabo'>I hope they go into the room </span>
+<span data-uid='3' class='slabo'>I hope they go into the room so they can hear all of us </span>
+<span data-uid='2' class='yesteryear'>i found a link online that a new product was created to collect energy from someone pleasuring themself.. energy can be used to charge a cellphone </span>
+<span data-uid='2' class='yesteryear'>hopefully artist will lead the way to the tseance </span>
+<span data-uid='2' class='yesteryear'>will type &#039;ye and 3 please join me at table&quot;  </span>
+<span data-uid='2' class='yesteryear'>sometimes it&#039;s good to be anonymous </span>
+<span data-uid='3' class='slabo'>agreed </span>
+<span data-uid='2' class='yesteryear'>sometimes not..like screaming in the wilderness..you won&#039;t be heard </span>
+<span data-uid='2' class='yesteryear'>welcome spirit #5 </span>
+<span data-uid='2' class='yesteryear'>welcome spirit #6 &amp; #7 </span>
+<span data-uid='2' class='yesteryear'>welcome spirit #8 - im the spirit welcoming committee..lol </span>
+<span data-uid='8' class='allura'>Hey Guys </span>
+<span data-uid='2' class='yesteryear'>i hear the touija moving... </span>
+<span data-uid='5' class='lora'>beware the ghosts of winters past....! </span>
+<span data-uid='2' class='yesteryear'>beware the ghosts of spring present... </span>
+<span data-uid='8' class='allura'>Do you believe a ghost </span>
+<span data-uid='6' class='dynalight'>hi Mindy </span>
+<span data-uid='2' class='yesteryear'>i dont thinkthe artist is online </span>
+<span data-uid='2' class='yesteryear'>just saw her go through a doorway </span>
+<span data-uid='2' class='yesteryear'>Of course...i believe in ghosts... we are internet ghosts to the living in the rooms </span>
+<span data-uid='7' class='playfair'>ghosts are real! Ooooooo :S </span>
+<span data-uid='2' class='yesteryear'>yesssss </span>
+<span data-uid='2' class='yesteryear'>if i leave and come back ...the font for my chat session will change? </span>
+<span data-uid='4' class='seaweed'>the struggle is real </span>
+<span data-uid='4' class='seaweed'>depends how long you leave </span>
+<span data-uid='2' class='yesteryear'>oh..interesting... </span>
+<span data-uid='4' class='seaweed'>yes </span>
+<span data-uid='2' class='yesteryear'>is there a counter somewhere tracking number of the living that visits? </span>
+<span data-uid='8' class='allura'>Hey where do you live? </span>
+<span data-uid='8' class='allura'>Anyone? </span>
+<span data-uid='4' class='seaweed'>hi </span>
+<span data-uid='8' class='allura'>hi </span>
+<span data-uid='3' class='slabo'>i live in the beyond </span>
+<span data-uid='8' class='allura'>ooh </span>
+<span data-uid='7' class='playfair'>i live above you </span>
+<span data-uid='1' class='oswald'>i live in the before </span>
+<span data-uid='5' class='lora'>yes i am tracking them, 67 have encountered us so far </span>
+<span data-uid='2' class='yesteryear'>yes... a visitor to table </span>
+<span data-uid='2' class='yesteryear'>or is that the artist </span>
+<span data-uid='6' class='dynalight'>that is the artist </span>
+<span data-uid='7' class='playfair'>hello </span>
+<span data-uid='8' class='allura'>I wish it is in the middle of  a public place</span>
+<span data-uid='8' class='allura'>Not in Pratt </span>
+<span data-uid='3' class='slabo'>that would be cool </span>
+<span data-uid='7' class='playfair'>yea, we can haunt random people </span>
+<span data-uid='4' class='seaweed'>Ghost voltron, assemble! </span>
+<span data-uid='4' class='seaweed'>(I&#039;ll form the head) </span>
+<span data-uid='2' class='yesteryear'>for the new Carrie movie there is youtube short of a fake wall in a coffee house where a woman makes a man drag up a wall </span>
+<span data-uid='2' class='yesteryear'>aw ..we lost spirit #7 </span>
+<span data-uid='1' class='oswald'>spirit 7 was boring anyway </span>
+<span data-uid='4' class='seaweed'><img src='smiles/sad.png'/> </span>
+<span data-uid='2' class='yesteryear'>the gallery is very bright.. view from camera #3 makes it look like the sun is right outside the room </span>
+<span data-uid='7' class='playfair'>is like a bright portal of light and people teleport into the room </span>
+<span data-uid='4' class='seaweed'>walk into the light </span>
+<span data-uid='2' class='yesteryear'>hahaha.....yes... travel through space and time...to ..here </span>
+<span data-uid='2' class='yesteryear'>Welcome spirits...are you ready to reach out to the living? </span>
+<span data-uid='4' class='seaweed'>dont be a dick </span>
+<span data-uid='4' class='seaweed'>break your face </span>
+<span data-uid='2' class='yesteryear'>technical difficulties suck </span>
+<span data-uid='9' class='oswald'>do you need a ghosty helping hand? </span>
+<span data-uid='4' class='seaweed'>need a small screwdriver </span>
+<span data-uid='2' class='yesteryear'>the artist has it under control and is in good spirits..good spirits..get it </span>
+<span data-uid='4' class='seaweed'>the terminals on that thing are tiny </span>
+<span data-uid='2' class='yesteryear'>she got your message - is getting the right sized tool </span>
+<span data-uid='2' class='yesteryear'>i just saw the artist with an electric drill... cant figure out where she&#039;s gone </span>
+<span data-uid='4' class='seaweed'>dont be jerks :/ </span>
+<span data-uid='4' class='seaweed'><img src='smiles/sad.png'/> </span>
+<span data-uid='11' class='slabo'>xxx </span>
+<span data-uid='10' class='yesteryear'>When is the next seance? </span>
+<span data-uid='4' class='seaweed'>whenever enough people show up and figure it out lol </span>
+<span data-uid='7' class='playfair'>Why no one trick me when I was in there? lol </span>
+<span data-uid='4' class='seaweed'>no one likes you <img src='smiles/sad.png'/> </span>
+<span data-uid='4' class='seaweed'>or nobody was on </span>
+<span data-uid='2' class='yesteryear'>there are 7 spirits here.. why are there only 4 participants in chat...the others are just watching? </span>
+<span data-uid='2' class='yesteryear'>i want that lamp..it looks so cool.. </span>
+<span data-uid='2' class='yesteryear'>catch y&#039;all later.. </span>
+<span data-uid='2' class='yesteryear'>one of em is a schitzo </span>
+<span data-uid='6' class='dynalight'>lol told her i love her </span>
+<span data-uid='7' class='playfair'>yes... we&#039;re here </span>
+<span data-uid='4' class='seaweed'>THRASHER </span>
+<span data-uid='5' class='lora'>give me your soul </span>
+<span data-uid='4' class='seaweed'>that doily looks like a skull on (3) </span>
+<span data-uid='8' class='allura'>i see dead pplz </span>
+<span data-uid='8' class='allura'>that bitch aint dead </span>
+<span data-uid='5' class='lora'>CASPER WUZ HEER </span>
+<span data-uid='5' class='lora'>acidjazz eats glue </span>
+<span data-uid='4' class='seaweed'>and boogers </span>
+<span data-uid='5' class='lora'>hi </span>
+<span data-uid='4' class='seaweed'>still what bitch </span>
+<span data-uid='4' class='seaweed'>youre my bitch now </span>
+<span data-uid='4' class='seaweed'>i want your soul </span>
+<span data-uid='4' class='seaweed'>i want your soul </span>
+<span data-uid='4' class='seaweed'>i will eat your soul </span>
+<span data-uid='4' class='seaweed'>your soul is mine </span>
+<span data-uid='4' class='seaweed'>the voices are everywhere </span>
+<span data-uid='4' class='seaweed'>fresh blood </span>
+<span data-uid='4' class='seaweed'>blood everywhere </span>
+<span data-uid='4' class='seaweed'>were watching you </span>
+<span data-uid='4' class='seaweed'>push harder weaklings </span>
+<span data-uid='4' class='seaweed'>we&#039;re not under here </span>
+<span data-uid='4' class='seaweed'>you will never find us </span>
+<span data-uid='4' class='seaweed'>two people </span>
+<span data-uid='4' class='seaweed'>more hands </span>
+<span data-uid='4' class='seaweed'>use more hands </span>
+<span data-uid='4' class='seaweed'>press harder </span>
+<span data-uid='4' class='seaweed'>all of you </span>
+<span data-uid='4' class='seaweed'>all three </span>
+<span data-uid='4' class='seaweed'>dont be scared </span>
+<span data-uid='4' class='seaweed'>its just your soul </span>
+<span data-uid='4' class='seaweed'>youre scared </span>
+<span data-uid='4' class='seaweed'>im right behind you </span>
+<span data-uid='4' class='seaweed'>I&#039;m right behind you </span>
+<span data-uid='4' class='seaweed'>you could shut up </span>
+<span data-uid='4' class='seaweed'>thats right </span>
+<span data-uid='4' class='seaweed'>you shut up </span>
+<span data-uid='4' class='seaweed'>its not funny </span>
+<span data-uid='4' class='seaweed'>you come up with better phrases </span>
+<span data-uid='4' class='seaweed'>bitch </span>
+<span data-uid='1' class='oswald'>hellooo visitors </span>
+<span data-uid='1' class='oswald'>welcome </span>
+<span data-uid='4' class='seaweed'>press more hands </span>
+<span data-uid='1' class='oswald'>get comfortable </span>
+<span data-uid='1' class='oswald'>let&#039;s chat </span>
+<span data-uid='1' class='oswald'>stop taking video </span>
+<span data-uid='1' class='oswald'>play with me not your phone </span>
+<span data-uid='1' class='oswald'>what are you doing </span>
+<span data-uid='1' class='oswald'>touch my hands </span>
+<span data-uid='4' class='seaweed'>so lonely </span>
+<span data-uid='4' class='seaweed'>MAKE YOUR TIME </span>
+<span data-uid='4' class='seaweed'>ALL YOUR BASE ARE BELONG TO US </span>
+<span data-uid='1' class='oswald'>So how are all of you lovely spirits tonight? </span>
+<span data-uid='1' class='oswald'>enjoying yourselves? </span>
+<span data-uid='1' class='oswald'>or perhaps you&#039;re not? </span>
+<span data-uid='1' class='oswald'>hellooooo </span>
+<span data-uid='4' class='seaweed'>hi </span>
+<span data-uid='4' class='seaweed'>everyone went home <img src='smiles/sad.png'/> </span>
+<span data-uid='1' class='oswald'>booo </span>
+<span data-uid='1' class='oswald'>oooooooooooooooooooooooo </span>
+<span data-uid='1' class='oswald'>&#039;); </span>
+<span data-uid='1' class='oswald'>\&lt; </span>
+<span data-uid='1' class='oswald'>\ </span>
+<span data-uid='1' class='oswald'>\ </span>
+<span data-uid='1' class='oswald'>\ </span>
+<span data-uid='5' class='lora'>jerk </span>
+<span data-uid='1' class='oswald'>Don&#039;t be a dick </span>
+<span data-uid='1' class='oswald'>what&#039;s up homies </span>
+<span data-uid='1' class='oswald'>bugle </span>
+<span data-uid='1' class='oswald'>shhhh </span>
+<span data-uid='4' class='seaweed'>buttz </span>
+<span data-uid='4' class='seaweed'>is this how the board moves? </span>
+<span data-uid='1' class='oswald'>pingle </span>
+<span data-uid='1' class='oswald'>nico </span>
+<span data-uid='1' class='oswald'>i&#039;m trying nico </span>
+<span data-uid='1' class='oswald'>nico </span>
+<span data-uid='1' class='oswald'>wrong table nico </span>
+<span data-uid='1' class='oswald'>nico </span>
+<span data-uid='1' class='oswald'>i love you nico </span>
+<span data-uid='1' class='oswald'>farewell nico </span>
+<span data-uid='1' class='oswald'>nico nico nico </span>
+<span data-uid='1' class='oswald'>nicole </span>
+<span data-uid='5' class='lora'>hellooooo </span>
+<span data-uid='1' class='oswald'>nico teitel </span>
+<span data-uid='1' class='oswald'>many kisses </span>
+<span data-uid='1' class='oswald'>kisses for you </span>
+<span data-uid='6' class='dynalight'>awwwwww </span>
+<span data-uid='1' class='oswald'>very purple </span>
+<span data-uid='1' class='oswald'>nice butt </span>
+<span data-uid='1' class='oswald'>DIED! </span>
+<span data-uid='5' class='lora'>In about 5 minutes the video feed should shut off </span>
+<span data-uid='5' class='lora'>the gallery is supposed to close at 8pm... </span>
+<span data-uid='5' class='lora'>and all of the buttons will be disabled </span>
+<span data-uid='5' class='lora'>annnnnd that&#039;s a wrap </span>
+<span data-uid='5' class='lora'>please come back tomorrow! </span>
+<span data-uid='3' class='slabo'>welcome back </span>
+<span data-uid='3' class='slabo'>where is everyone </span>
+<span data-uid='1' class='oswald'>dont know  </span>
+<span data-uid='6' class='dynalight'>hi </span>
+<span data-uid='2' class='yesteryear'>hi nd </span>
+<span data-uid='6' class='dynalight'>hi px </span>
+<span data-uid='4' class='seaweed'>i was the kid who walked in there 5 min ago. i was startled </span>
+<span data-uid='2' class='yesteryear'>haha nice </span>
+<span data-uid='4' class='seaweed'>no one used the weeja board on me tho </span>
+<span data-uid='3' class='slabo'>ouija board is automatic </span>
+<span data-uid='4' class='seaweed'>ah </span>
+<span data-uid='3' class='slabo'>it gets tweets that have #sstp hash tag </span>
+<span data-uid='1' class='oswald'>uh </span>
+<span data-uid='3' class='slabo'>? </span>
+<span data-uid='1' class='oswald'>what is thi </span>
+<span data-uid='1' class='oswald'>s </span>
+<span data-uid='3' class='slabo'>its an art exhibit, people will come in </span>
+<span data-uid='3' class='slabo'>and you can trigger changes in the environment </span>
+<span data-uid='3' class='slabo'>and send messages </span>
+<span data-uid='1' class='oswald'>ah </span>
+<span data-uid='5' class='lora'>yup!~ </span>
+<span data-uid='6' class='dynalight'>what </span>
+<span data-uid='2' class='yesteryear'>what </span>
+<span data-uid='3' class='slabo'>your face </span>
+<span data-uid='6' class='dynalight'>i came here from /b/ </span>
+<span data-uid='5' class='lora'>The objects to the right of the screen, when clicked, cause objects in the gallery to move </span>
+<span data-uid='6' class='dynalight'>you really shouldnt advert this shit on /b/ </span>
+<span data-uid='3' class='slabo'>someone must have lnked it </span>
+<span data-uid='3' class='slabo'>friggen /b tards </span>
+<span data-uid='3' class='slabo'>its early still, waiting for more people to walk through </span>
+<span data-uid='6' class='dynalight'>i just sent &quot;hitler did nothing wrong&quot; to the phone </span>
+<span data-uid='3' class='slabo'>lol </span>
+<span data-uid='3' class='slabo'>gotta wait till someone is there to answer it </span>
+<span data-uid='6' class='dynalight'>what do the flash things do </span>
+<span data-uid='6' class='dynalight'>i can&#039;t see them </span>
+<span data-uid='6' class='dynalight'>should i install puffin on my phone </span>
+<span data-uid='1' class='oswald'>oh neat it&#039;s cameras </span>
+<span data-uid='5' class='lora'>wonder how you control the board </span>
+<span data-uid='3' class='slabo'>board pulls tweets from #sstp hash tag </span>
+<span data-uid='5' class='lora'>ahh </span>
+<span data-uid='6' class='dynalight'>ring ring </span>
+<span data-uid='6' class='dynalight'>hitler did nothing wrong </span>
+<span data-uid='4' class='seaweed'>look fellas, an unsuspecting ponce </span>
+<span data-uid='3' class='slabo'>this guy wont answer the phone wt</span>
+<span data-uid='3' class='slabo'>f </span>
+<span data-uid='3' class='slabo'>this guy has a porn stash </span>
+<span data-uid='3' class='slabo'>hello dude </span>
+<span data-uid='1' class='oswald'>im not under there </span>
+<span data-uid='1' class='oswald'>you wont find me </span>
+<span data-uid='6' class='dynalight'>I hope the trip wasn&#039;t too far or annoying </span>
+<span data-uid='6' class='dynalight'>Thank you for coming to my show </span>
+<span data-uid='6' class='dynalight'>WELCOME </span>
+<span data-uid='6' class='dynalight'>Was the trip long? </span>
+<span data-uid='6' class='dynalight'>Are you enjoying yourselves </span>
+<span data-uid='6' class='dynalight'>one second </span>
+<span data-uid='6' class='dynalight'>going to reboot </span>
+<span data-uid='6' class='dynalight'>can you hear me now? </span>
+<span data-uid='6' class='dynalight'>still can&#039;t hear it? </span>
+<span data-uid='6' class='dynalight'>touch another hand </span>
+<span data-uid='6' class='dynalight'>touch another hand </span>
+<span data-uid='6' class='dynalight'>Yay you figured it out </span>
+<span data-uid='1' class='oswald'>press harder </span>
+<span data-uid='6' class='dynalight'>press harder </span>
+<span data-uid='6' class='dynalight'>hahahahahahaha </span>
+<span data-uid='6' class='dynalight'>press on the palms </span>
+<span data-uid='6' class='dynalight'>it should be vibrating </span>
+<span data-uid='6' class='dynalight'>bottom of the palms </span>
+<span data-uid='6' class='dynalight'>rebooted </span>
+<span data-uid='6' class='dynalight'>haha </span>
+<span data-uid='6' class='dynalight'>we changed it so you can hear </span>
+<span data-uid='6' class='dynalight'>because you guys are going deaf </span>
+<span data-uid='1' class='oswald'>so dead </span>
+<span data-uid='1' class='oswald'>so deaf </span>
+<span data-uid='6' class='dynalight'>did you have a good trip </span>
+<span data-uid='6' class='dynalight'>how was your drive in </span>
+<span data-uid='6' class='dynalight'>glad you could make it </span>
+<span data-uid='1' class='oswald'>you only need to touch 4 now  </span>
+<span data-uid='6' class='dynalight'>glad you could make it </span>
+<span data-uid='6' class='dynalight'>thank you for coming </span>
+<span data-uid='6' class='dynalight'>it&#039;s going to repeat  </span>
+<span data-uid='6' class='dynalight'>sometimes </span>
+<span data-uid='6' class='dynalight'>i can&#039;t type fast enough </span>
+<span data-uid='6' class='dynalight'>ha ha ha </span>
+<span data-uid='6' class='dynalight'>you guys are a riot </span>
+<span data-uid='6' class='dynalight'>no </span>
+<span data-uid='6' class='dynalight'>it&#039;s fun </span>
+<span data-uid='6' class='dynalight'>about three days </span>
+<span data-uid='6' class='dynalight'>thank you </span>
+<span data-uid='6' class='dynalight'>lol no </span>
+<span data-uid='6' class='dynalight'>i have to sell most of the stuff back </span>
+<span data-uid='6' class='dynalight'>sell the furniture </span>
+<span data-uid='6' class='dynalight'>hahahha </span>
+<span data-uid='6' class='dynalight'>Oh my goodness he is too adorable singing that song </span>
+<span data-uid='6' class='dynalight'>yo chris is that you </span>
+<span data-uid='6' class='dynalight'>hellloooooo </span>
+<span data-uid='6' class='dynalight'>down here in the chat </span>
+<span data-uid='6' class='dynalight'>hello </span>
+<span data-uid='6' class='dynalight'>welcome to my house </span>
+<span data-uid='6' class='dynalight'>The amount of people who don&#039;t pick up the phone is too damn high </span>
+<span data-uid='6' class='dynalight'>wowo </span>
+<span data-uid='6' class='dynalight'>they just totally ignore it </span>
+<span data-uid='6' class='dynalight'>amaze </span>
+<span data-uid='1' class='oswald'>how do you just sit there taking a picture of a ringing phone </span>
+<span data-uid='1' class='oswald'>theres a note on it that says answer the phone </span>
+<span data-uid='6' class='dynalight'>Hello new spirits! </span>
+<span data-uid='4' class='seaweed'>Hello </span>
+<span data-uid='6' class='dynalight'>Are you from the society? </span>
+<span data-uid='4' class='seaweed'>Yes </span>
+<span data-uid='6' class='dynalight'>YAY! Welcome! </span>
+<span data-uid='6' class='dynalight'>This is far more fun when there are people in the space... unfortunately, there don&#039;t seem to be any guests at the moment </span>
+<span data-uid='4' class='seaweed'>I know it is so sad. Someone should always be there! </span>
+<span data-uid='6' class='dynalight'>The seance table on camera 5 reads the contents of the chat room if anyone should touch it </span>
+<span data-uid='6' class='dynalight'>I&#039;ll be there later today! </span>
+<span data-uid='6' class='dynalight'>with some friends </span>
+<span data-uid='4' class='seaweed'>YAy! </span>
+<span data-uid='6' class='dynalight'>Haha, so please feel free to check back periodically, the installation will be up until May 1 </span>
+<span data-uid='6' class='dynalight'>oh! Is that someone coming in now? </span>
+<span data-uid='6' class='dynalight'>Hmm, maybe just in the hallway </span>
+<span data-uid='1' class='oswald'><img src='smiles/sad.png'/> </span>
+<span data-uid='6' class='dynalight'>boooo come on people </span>
+<span data-uid='6' class='dynalight'>where are you </span>
+<span data-uid='6' class='dynalight'>us spirits are lonely </span>
+<span data-uid='2' class='yesteryear'>hi </span>
+<span data-uid='6' class='dynalight'>hello! </span>
+<span data-uid='6' class='dynalight'>sorry there aren&#039;t any &quot;living&quot; people present at the moment </span>
+<span data-uid='6' class='dynalight'>some people should filter in throughout the day </span>
+<span data-uid='6' class='dynalight'>here&#039;s someone! </span>
+<span data-uid='6' class='dynalight'>have at it! </span>
+<span data-uid='6' class='dynalight'>wow they didn&#039;t even play with the seance table </span>
+<span data-uid='6' class='dynalight'>Hello people </span>
+<span data-uid='6' class='dynalight'>How are you today </span>
+<span data-uid='1' class='oswald'>play with us </span>
+<span data-uid='6' class='dynalight'>where did you come from </span>
+<span data-uid='1' class='oswald'>we can hear you </span>
+<span data-uid='1' class='oswald'>more hands </span>
+<span data-uid='6' class='dynalight'>don&#039;t spill the coffee </span>
+<span data-uid='1' class='oswald'>press harder </span>
+<span data-uid='6' class='dynalight'>welcome to the show </span>
+<span data-uid='6' class='dynalight'>how do you like it so far </span>
+<span data-uid='1' class='oswald'>coffee is good </span>
+<span data-uid='6' class='dynalight'>i love coffee </span>
+<span data-uid='6' class='dynalight'>we have many names </span>
+<span data-uid='6' class='dynalight'>italian roast </span>
+<span data-uid='6' class='dynalight'>and columbian </span>
+<span data-uid='6' class='dynalight'>ebay </span>
+<span data-uid='6' class='dynalight'>hello p </span>
+<span data-uid='6' class='dynalight'>have a seat </span>
+<span data-uid='6' class='dynalight'>ask a question </span>
+<span data-uid='4' class='seaweed'>Hello </span>
+<span data-uid='4' class='seaweed'>I am coming for you </span>
+<span data-uid='4' class='seaweed'>we are here </span>
+<span data-uid='1' class='oswald'>look at this guy with the hat hah </span>
+<span data-uid='4' class='seaweed'>hehe </span>
+<span data-uid='4' class='seaweed'>stop with the pictures! </span>
+<span data-uid='6' class='dynalight'>stop recording and play with us </span>
+<span data-uid='6' class='dynalight'>we see your selfie </span>
+<span data-uid='6' class='dynalight'>wow </span>
+<span data-uid='6' class='dynalight'>what is that bass noise </span>
+<span data-uid='2' class='yesteryear'>why does she keep picking up the phone and hanging it up? </span>
+<span data-uid='6' class='dynalight'>i have no idea </span>
+<span data-uid='6' class='dynalight'>who does that </span>
+<span data-uid='2' class='yesteryear'>that lady does </span>
+<span data-uid='6' class='dynalight'>that&#039;s my friend kate&#039;s exchange student mom </span>
+<span data-uid='6' class='dynalight'>from when she was in high school </span>
+<span data-uid='6' class='dynalight'>the lady is from iowa </span>
+<span data-uid='6' class='dynalight'>but like </span>
+<span data-uid='6' class='dynalight'>apparently doesn&#039;t know how to use an old time phone </span>
+<span data-uid='6' class='dynalight'>or doesn&#039;t want to </span>
+<span data-uid='2' class='yesteryear'>PICK IT UP </span>
+<span data-uid='1' class='oswald'>the fuck </span>
+<span data-uid='6' class='dynalight'>Lol who are you, you&#039;re bugging out </span>
+<span data-uid='6' class='dynalight'>hahaha </span>
+<span data-uid='2' class='yesteryear'>rage </span>
+<span data-uid='6' class='dynalight'>hi chris </span>
+<span data-uid='6' class='dynalight'>hahhaa </span>
+<span data-uid='2' class='yesteryear'>RAWR </span>
+<span data-uid='6' class='dynalight'>hello </span>
+<span data-uid='6' class='dynalight'>only once </span>
+<span data-uid='6' class='dynalight'>hello </span>
+<span data-uid='1' class='oswald'>hello </span>
+<span data-uid='6' class='dynalight'>welcome </span>
+<span data-uid='1' class='oswald'>press harder </span>
+<span data-uid='3' class='slabo'>whyyy are we here </span>
+<span data-uid='3' class='slabo'>show me </span>
+<span data-uid='6' class='dynalight'>haha </span>
+<span data-uid='3' class='slabo'>LIGHT </span>
+<span data-uid='3' class='slabo'>also, banana phone </span>
+<span data-uid='1' class='oswald'>haha </span>
+<span data-uid='4' class='seaweed'>cnazy </span>
+<span data-uid='1' class='oswald'>hello </span>
+<span data-uid='1' class='oswald'>we are watching you </span>
+<span data-uid='6' class='dynalight'>why did you keep hanging up the phone </span>
+<span data-uid='1' class='oswald'>push harder on the palm </span>
+<span data-uid='1' class='oswald'>it costs enough </span>
+<span data-uid='6' class='dynalight'>kate thank you for explaining! </span>
+<span data-uid='2' class='yesteryear'>I wish there was a stab feature </span>
+<span data-uid='1' class='oswald'>YOU ARE THE DEVIL </span>
+<span data-uid='6' class='dynalight'>hahahahahaha </span>
+<span data-uid='6' class='dynalight'>oh my goodness </span>
+<span data-uid='2' class='yesteryear'>how are you coming playing around with the wall and not answering the phone </span>
+<span data-uid='1' class='oswald'>read your aim </span>
+<span data-uid='2' class='yesteryear'>who uses aim? </span>
+<span data-uid='1' class='oswald'>nm </span>
+<span data-uid='1' class='oswald'>the girl in the back is working on another project </span>
+<span data-uid='2' class='yesteryear'>that&#039;s no fun </span>
+<span data-uid='2' class='yesteryear'>she should be answering the phone and pandering to us </span>
+<span data-uid='1' class='oswald'>exactly </span>
+<span data-uid='3' class='slabo'>haha </span>
+<span data-uid='5' class='lora'>two pretty ladies </span>
+<span data-uid='5' class='lora'>aww...they left the room </span>
+<span data-uid='1' class='oswald'>hello tal </span>
+<span data-uid='2' class='yesteryear'>I&#039;ll be in later today </span>
+<span data-uid='1' class='oswald'>press harder </span>
+<span data-uid='2' class='yesteryear'>hello tal </span>
+<span data-uid='2' class='yesteryear'>thank you for coming back </span>
+<span data-uid='2' class='yesteryear'>do you like it so far? </span>
+<span data-uid='2' class='yesteryear'>awesome </span>
+<span data-uid='2' class='yesteryear'>hahaha </span>
+<span data-uid='2' class='yesteryear'>ask us a question </span>
+<span data-uid='1' class='oswald'>clop clop </span>
+<span data-uid='4' class='seaweed'>a </span>
+<span data-uid='1' class='oswald'>were watching you </span>
+<span data-uid='2' class='yesteryear'>hello Michael </span>
+<span data-uid='1' class='oswald'>hello </span>
+<span data-uid='2' class='yesteryear'>what are you looking for </span>
+<span data-uid='2' class='yesteryear'>we are all around you </span>
+<span data-uid='4' class='seaweed'>wow </span>
+<span data-uid='2' class='yesteryear'>Hello Professor </span>
+<span data-uid='2' class='yesteryear'>how do you like my show </span>
+<span data-uid='4' class='seaweed'>hello michael </span>
+<span data-uid='2' class='yesteryear'>great! </span>
+<span data-uid='3' class='slabo'>mindy good show! </span>
+<span data-uid='2' class='yesteryear'>Thank you so much! </span>
+<span data-uid='1' class='oswald'>hello </span>
+<span data-uid='2' class='yesteryear'>i like your scarf </span>
+<span data-uid='1' class='oswald'>hello hood </span>
+<span data-uid='2' class='yesteryear'>press more hands </span>
+<span data-uid='1' class='oswald'>why are you wearing a hood inside </span>
+<span data-uid='1' class='oswald'>press harder </span>
+<span data-uid='1' class='oswald'>we see you </span>
+<span data-uid='1' class='oswald'>we are watching </span>
+<span data-uid='2' class='yesteryear'>welcome </span>
+<span data-uid='2' class='yesteryear'>so </span>
+<span data-uid='2' class='yesteryear'>hello </span>
+<span data-uid='1' class='oswald'>we want souls </span>
+<span data-uid='1' class='oswald'>push harder </span>
+<span data-uid='2' class='yesteryear'>ok </span>
+<span data-uid='2' class='yesteryear'>push harder </span>
+<span data-uid='2' class='yesteryear'>push harder </span>
+<span data-uid='2' class='yesteryear'>so </span>
+<span data-uid='2' class='yesteryear'>im at home </span>
+<span data-uid='4' class='seaweed'>hi, we are back in the classroom, are you there? </span>
+<span data-uid='5' class='lora'>ya </span>
+<span data-uid='2' class='yesteryear'>i&#039;m here </span>
+<span data-uid='2' class='yesteryear'>hello </span>
+<span data-uid='2' class='yesteryear'>sorry that was complicated </span>
+<span data-uid='4' class='seaweed'>the hardest thing to understand is the text to speech </span>
+<span data-uid='2' class='yesteryear'>the table hands are finicky </span>
+<span data-uid='2' class='yesteryear'>i chose it because it was hard to understand </span>
+<span data-uid='2' class='yesteryear'>haha </span>
+<span data-uid='2' class='yesteryear'>but it doesn&#039;t help when i&#039;m trying to explain it  </span>
+<span data-uid='4' class='seaweed'>and we were having trouble understanding you. i wanted to ask a few questions </span>
+<span data-uid='2' class='yesteryear'>no problem, fire away </span>
+<span data-uid='4' class='seaweed'>do you mind having a google hangout in parallel </span>
+<span data-uid='2' class='yesteryear'>.... </span>
+<span data-uid='2' class='yesteryear'>i&#039;m kind of in pajamas </span>
+<span data-uid='2' class='yesteryear'>hahahaha </span>
+<span data-uid='4' class='seaweed'>ok, maybe later then </span>
+<span data-uid='2' class='yesteryear'>it&#039;s been a trying couple of days </span>
+<span data-uid='6' class='dynalight'>oooh more spirits </span>
+<span data-uid='2' class='yesteryear'>my husband says i look fine so maybe that would work </span>
+<span data-uid='2' class='yesteryear'>haha </span>
+<span data-uid='1' class='oswald'>do it </span>
+<span data-uid='6' class='dynalight'>YAY! hi Mindy!  it&#039;s Marj <img src='smiles/bigsmile.png'/> </span>
+<span data-uid='2' class='yesteryear'>hi Marj </span>
+<span data-uid='6' class='dynalight'>lol </span>
+<span data-uid='2' class='yesteryear'>there&#039;s a class in here right now trying to have a talk with me </span>
+<span data-uid='2' class='yesteryear'>haha </span>
+<span data-uid='1' class='oswald'>  (ノಠ益ಠ)ノ彡┻━┻ </span>
+<span data-uid='6' class='dynalight'>awesome.  enjoy </span>
+<span data-uid='2' class='yesteryear'>oh my goodness </span>
+<span data-uid='2' class='yesteryear'>haha </span>
+<span data-uid='2' class='yesteryear'>liubo are you still there? </span>
+<span data-uid='2' class='yesteryear'>haha you guys are on it </span>
+<span data-uid='7' class='playfair'>come back </span>
+<span data-uid='4' class='seaweed'>yes, we are messing with your audience </span>
+<span data-uid='2' class='yesteryear'>excellent </span>
+<span data-uid='4' class='seaweed'>what tech are you using to activate the devices? </span>
+<span data-uid='2' class='yesteryear'>there is a web server behind the fireplace mirror </span>
+<span data-uid='4' class='seaweed'>x10? </span>
+<span data-uid='2' class='yesteryear'>it has an arduino hooked up to it with an NRF24L01 wireless transmitter </span>
+<span data-uid='2' class='yesteryear'>what is x 10? </span>
+<span data-uid='2' class='yesteryear'>hang on switching fonts </span>
+<span data-uid='1' class='oswald'>is this better? </span>
+<span data-uid='4' class='seaweed'>yes! </span>
+<span data-uid='1' class='oswald'>so the main transmitter is an arduino uno coupled with a webserver </span>
+<span data-uid='4' class='seaweed'>some of them </span>
+<span data-uid='4' class='seaweed'>are you going to be on campus soon if people want to talk to you in person? </span>
+<span data-uid='1' class='oswald'>the webserver serves the website and handles the button presses, pushes them to the arduino </span>
+<span data-uid='1' class='oswald'>yes i&#039;m leaving here in about 20 minutes and will be out there in maybe 2 hours? </span>
+<span data-uid='4' class='seaweed'>no worries, i mean in general </span>
+<span data-uid='1' class='oswald'>oh i&#039;m usually around on mondays and wednesdays </span>
+<span data-uid='4' class='seaweed'>k, continuing with class, thanks, laters </span>
+<span data-uid='1' class='oswald'>no problem! have fun! </span>
+<span data-uid='2' class='yesteryear'>hello will </span>
+<span data-uid='2' class='yesteryear'>how are you </span>
+<span data-uid='1' class='oswald'>i like your jacket </span>
+<span data-uid='1' class='oswald'>thats right  get comfortable</span>
+<span data-uid='1' class='oswald'>we see everything </span>
+<span data-uid='1' class='oswald'>we see everythingg </span>
+<span data-uid='5' class='lora'>hello there </span>
+<span data-uid='5' class='lora'>answer the phone </span>
+<span data-uid='1' class='oswald'>fresh souls </span>
+<span data-uid='1' class='oswald'>nice hat </span>
+<span data-uid='5' class='lora'>你好 </span>
+<span data-uid='2' class='yesteryear'>apparently the chat takes other language fonts </span>
+<span data-uid='2' class='yesteryear'>that&#039;s awesome </span>
+<span data-uid='5' class='lora'>こんにちは </span>
+<span data-uid='2' class='yesteryear'>i have no idea what that says </span>
+<span data-uid='5' class='lora'>it means hello in chinese and japanese  </span>
+<span data-uid='1' class='oswald'>   (ノಠ益ಠ)ノ彡┻━┻ </span>
+<span data-uid='2' class='yesteryear'>HELLO! </span>
+<span data-uid='1' class='oswald'>（╯&deg;□&deg;）╯︵ ┻━┻ </span>
+<span data-uid='1' class='oswald'>hi </span>
+<span data-uid='2' class='yesteryear'>the worst part is waiting for people to come in </span>
+<span data-uid='2' class='yesteryear'>I guess that would be real if we really were ghosts </span>
+<span data-uid='5' class='lora'>i feel the ghost, it&#039;s pain to wait people come  </span>
+<span data-uid='1' class='oswald'>haha </span>
+<span data-uid='1' class='oswald'>hello  </span>
+<span data-uid='1' class='oswald'>sit down </span>
+<span data-uid='1' class='oswald'>crap </span>
+<span data-uid='5' class='lora'>sit down </span>
+<span data-uid='5' class='lora'>zhiwei! </span>
+<span data-uid='5' class='lora'>ZHI W</span>
+<span data-uid='1' class='oswald'>LAI LAI LAI  </span>
+<span data-uid='3' class='slabo'>WEI WEI WEI WEI WEI WEI WEI WEI </span>
+<span data-uid='4' class='seaweed'>Look at camera #5.. a shadow looks like it has a head, body and hand pointing to the right..creepy.. </span>
+<span data-uid='1' class='oswald'>LAI LOVE </span>
+<span data-uid='1' class='oswald'>sit down </span>
+<span data-uid='1' class='oswald'>died </span>
+<span data-uid='1' class='oswald'>Hi </span>
+<span data-uid='1' class='oswald'>Hi </span>
+<span data-uid='1' class='oswald'>move </span>
+<span data-uid='1' class='oswald'>sit down </span>
+<span data-uid='3' class='slabo'>I see you.... </span>
+<span data-uid='3' class='slabo'>where are you? </span>
+<span data-uid='4' class='seaweed'>hovering around the room..don&#039;t you see me? </span>
+<span data-uid='4' class='seaweed'>hellllooooooo </span>
+<span data-uid='4' class='seaweed'>hello </span>
+<span data-uid='1' class='oswald'>fuck you Chris </span>
+<span data-uid='3' class='slabo'>So, that&#039;s a nice leather jacket </span>
+<span data-uid='3' class='slabo'>yes, you with the long hair </span>
+<span data-uid='3' class='slabo'>something new </span>
+<span data-uid='3' class='slabo'>we&#039;re here </span>
+<span data-uid='3' class='slabo'>Marj is here </span>
+<span data-uid='3' class='slabo'>bwahahaha </span>
+<span data-uid='3' class='slabo'>it&#039;s repeating our words :/ </span>
+<span data-uid='3' class='slabo'>i like the whisper </span>
+<span data-uid='3' class='slabo'>it&#039;s so cool up here... </span>
+<span data-uid='3' class='slabo'>it says there are four spirits present. so other people are watching </span>
+<span data-uid='6' class='dynalight'>Marj will murder you all you is evil </span>
+<span data-uid='3' class='slabo'>we are watching </span>
+<span data-uid='6' class='dynalight'>andrew jackson </span>
+<span data-uid='3' class='slabo'>Yes, we&#039;re watching the chat </span>
+<span data-uid='3' class='slabo'>there are definitely lurkers </span>
+<span data-uid='5' class='lora'>I am Doctor SBaito </span>
+<span data-uid='6' class='dynalight'>you have a spider on your leather jacket miss </span>
+<span data-uid='3' class='slabo'>That&#039;s a really cool crystal ball </span>
+<span data-uid='7' class='playfair'>that dude looks like a wimp </span>
+<span data-uid='5' class='lora'>CASPER WAS HUR. </span>
+<span data-uid='3' class='slabo'>hahahaha nice skull shirt! </span>
+<span data-uid='5' class='lora'>blindspot = miirror spot </span>
+<span data-uid='3' class='slabo'>nice beard </span>
+<span data-uid='3' class='slabo'>is that Chris? </span>
+<span data-uid='7' class='playfair'>yes thats chris </span>
+<span data-uid='3' class='slabo'>HI CHRIS!!! </span>
+<span data-uid='3' class='slabo'>How&#039;ve you been?  I don&#039;t see you much now that i&#039;m dead! </span>
+<span data-uid='3' class='slabo'>Work is good? </span>
+<span data-uid='3' class='slabo'>it&#039;s still repeating... </span>
+<span data-uid='5' class='lora'>someone set us up the bomb </span>
+<span data-uid='3' class='slabo'>what is your name with the leather jacket? </span>
+<span data-uid='3' class='slabo'>Hi Alana, that&#039;s a nice name. </span>
+<span data-uid='3' class='slabo'>are you having fun, Alana? </span>
+<span data-uid='3' class='slabo'>Indeed, it is </span>
+<span data-uid='3' class='slabo'>yes, this is marj </span>
+<span data-uid='4' class='seaweed'>you all look wonderful...hi Mindy </span>
+<span data-uid='8' class='allura'>tell rob to take his pants off </span>
+<span data-uid='4' class='seaweed'>i was there earlier today, it looked wonderful </span>
+<span data-uid='4' class='seaweed'>hello fellow spirits... there are four living souls in the room right now.   </span>
+<span data-uid='3' class='slabo'>The room is so dark, it seemed there was something moving in there when no one was around. </span>
+<span data-uid='4' class='seaweed'>oooooooooo </span>
+<span data-uid='3' class='slabo'>The Ouija Board is haunted! Beware </span>
+<span data-uid='4' class='seaweed'>pretty lady... cute guy </span>
+<span data-uid='3' class='slabo'>The motor is too loud </span>
+<span data-uid='4' class='seaweed'>two living souls.... i want your physical body </span>
+<span data-uid='7' class='playfair'>the motor is unavoidably loud </span>
+<span data-uid='7' class='playfair'>the wood of the table amplifies it </span>
+<span data-uid='4' class='seaweed'>oooo... i can hear the messages now </span>
+<span data-uid='3' class='slabo'>the seance table is really awesome </span>
+<span data-uid='4' class='seaweed'>yes </span>
+<span data-uid='4' class='seaweed'>we nine spirits are with you now and know all </span>
+<span data-uid='5' class='lora'>Social Pants Transfer Portal </span>
+<span data-uid='4' class='seaweed'>Mindy ...great job on your thesis grad exhibit </span>
+<span data-uid='4' class='seaweed'>its your mother </span>
+<span data-uid='4' class='seaweed'>this is very cool </span>
+<span data-uid='4' class='seaweed'>your welcome </span>
+<span data-uid='5' class='lora'>YOLO </span>
+<span data-uid='9' class='oswald'>Is that Chris? </span>
+<span data-uid='4' class='seaweed'>chris has a big head </span>
+<span data-uid='4' class='seaweed'>chris head is blocking my view </span>
+<span data-uid='4' class='seaweed'>thank you </span>
+<span data-uid='4' class='seaweed'>not anymore </span>
+<span data-uid='10' class='yesteryear'>just cut his head off </span>
+<span data-uid='5' class='lora'>Do not taunt happy fun ball </span>
+<span data-uid='4' class='seaweed'>you increased the volume on the table and you can hear us  </span>
+<span data-uid='4' class='seaweed'>awesome </span>
+<span data-uid='4' class='seaweed'>i want that orb to tell fortunes </span>
+<span data-uid='4' class='seaweed'>i want that orb to tell fortunes </span>
+<span data-uid='5' class='lora'>If Happy Fun Ball begins to smoke, seek shelter and cover head. </span>
+<span data-uid='4' class='seaweed'>some spirits are coming through louder than others </span>
+<span data-uid='5' class='lora'>Happy fun ball may suddenly accelerate to dangerous speeds </span>
+<span data-uid='4' class='seaweed'>Only if someone throws the Happy Fun Ball. </span>
+<span data-uid='7' class='playfair'>Hello rob </span>
+<span data-uid='7' class='playfair'>Zoltar says your wish is granted </span>
+<span data-uid='9' class='oswald'>We are all just prisoners here of our own device </span>
+<span data-uid='9' class='oswald'>You can check out any time you like but you can never leave </span>
+<span data-uid='1' class='oswald'>hello again </span>
+<span data-uid='1' class='oswald'>don&#039;t be afraid </span>
+<span data-uid='5' class='lora'>heheh </span>
+<span data-uid='5' class='lora'>JOHN MADDEN </span>
+<span data-uid='5' class='lora'> john madden john madden john madden john madden john madden john madden </span>
+<span data-uid='1' class='oswald'>AEIOU </span>
+<span data-uid='4' class='seaweed'>Niggers </span>
+<span data-uid='4' class='seaweed'>tongue </span>
+<span data-uid='4' class='seaweed'>my </span>
+<span data-uid='4' class='seaweed'>anus </span>
+<span data-uid='6' class='dynalight'>john madden </span>
+<span data-uid='6' class='dynalight'>john madden </span>
+<span data-uid='4' class='seaweed'>0/10 you fucking suck OP </span>
+<span data-uid='9' class='oswald'>some spirits are mean &amp; vulgar </span>
+<span data-uid='5' class='lora'>chill </span>
+<span data-uid='4' class='seaweed'>Fuck you </span>
+<span data-uid='5' class='lora'>its okay </span>
+<span data-uid='5' class='lora'>relax </span>
+<span data-uid='4' class='seaweed'>Kill yourself </span>
+<span data-uid='5' class='lora'>ssh ssh </span>
+<span data-uid='10' class='yesteryear'>My name is dan </span>
+<span data-uid='4' class='seaweed'>and quit making shitty threads </span>
+<span data-uid='11' class='slabo'>no </span>
+<span data-uid='10' class='yesteryear'>Dan the man </span>
+<span data-uid='9' class='oswald'>site shutting down for the evening - good night all </span>
+<span data-uid='1' class='oswald'>hello spirit </span>
+<span data-uid='6' class='dynalight'>who are the photographers </span>
+<span data-uid='4' class='seaweed'>he should go to the siance table  </span>
+<span data-uid='4' class='seaweed'>i see you  </span>
+<span data-uid='6' class='dynalight'>who are you </span>
+<span data-uid='6' class='dynalight'>who are you people </span>
+<span data-uid='4' class='seaweed'>how is your day </span>
+<span data-uid='4' class='seaweed'>what do you want from us  </span>
+<span data-uid='6' class='dynalight'>who are you taking pictures for? </span>
+<span data-uid='4' class='seaweed'>why  </span>
+<span data-uid='6' class='dynalight'>your soul smells fresh </span>
+<span data-uid='4' class='seaweed'>sit down your angering me  </span>
+<span data-uid='6' class='dynalight'>that guy has an epic beard </span>
+<span data-uid='4' class='seaweed'>lol  </span>
+<span data-uid='6' class='dynalight'>press firmly </span>
+<span data-uid='6' class='dynalight'>hello peter </span>
+<span data-uid='3' class='slabo'>i&#039;m watching you.  </span>
+<span data-uid='3' class='slabo'>hi </span>
+<span data-uid='4' class='seaweed'>now we can chat </span>
+<span data-uid='4' class='seaweed'>can you hear me  </span>
+<span data-uid='4' class='seaweed'>see now i see you  </span>
+<span data-uid='4' class='seaweed'>lol  </span>
+<span data-uid='4' class='seaweed'>this id dope right </span>
+<span data-uid='4' class='seaweed'>dope right </span>
+<span data-uid='4' class='seaweed'>like your hat </span>
+<span data-uid='3' class='slabo'>im not under there </span>
+<span data-uid='4' class='seaweed'>nice hat </span>
+<span data-uid='3' class='slabo'>i like your hat </span>
+<span data-uid='4' class='seaweed'>now your dead  </span>
+<span data-uid='4' class='seaweed'>you are dead  </span>
+<span data-uid='4' class='seaweed'>dead no longer alive  </span>
+<span data-uid='4' class='seaweed'>join the spirit world </span>
+<span data-uid='4' class='seaweed'>its more fun  </span>
+<span data-uid='3' class='slabo'>your soul smells delicious </span>
+<span data-uid='3' class='slabo'>there are no finals if you are not alive </span>
+<span data-uid='4' class='seaweed'>way more fun you can haunt shit </span>
+<span data-uid='4' class='seaweed'>nope no work here  </span>
+<span data-uid='4' class='seaweed'>just haunt people  </span>
+<span data-uid='4' class='seaweed'>if noone talks it plays old messages yes </span>
+<span data-uid='3' class='slabo'>bring more fresh souls </span>
+<span data-uid='4' class='seaweed'>more souls more souls  </span>
+<span data-uid='4' class='seaweed'>vik? </span>
+<span data-uid='5' class='lora'>wut </span>
+<span data-uid='3' class='slabo'>yeah, what&#039;s up kid </span>
+<span data-uid='3' class='slabo'>hey, who wrote wut? </span>
+<span data-uid='5' class='lora'>wut why </span>
+<span data-uid='5' class='lora'>whateverrrrrrrrr </span>
+<span data-uid='3' class='slabo'>I think that&#039;s rob </span>
+<span data-uid='3' class='slabo'>this is the coolest fucking thing i&#039;ve ever seen.  I think I&#039;m going to cry when you take this down </span>
+<span data-uid='5' class='lora'>no </span>
+<span data-uid='5' class='lora'>no its not &quot;rob&quot; </span>
+<span data-uid='5' class='lora'>why the hell would i be rob </span>
+<span data-uid='5' class='lora'>how do u control the board </span>
+<span data-uid='3' class='slabo'>twitter feed </span>
+<span data-uid='3' class='slabo'>if you were rob you would know </span>
+<span data-uid='3' class='slabo'>If you were rob you would know </span>
+<span data-uid='1' class='oswald'>want to taste your  soul</span>
+<span data-uid='3' class='slabo'>asdf </span>
+<span data-uid='3' class='slabo'>gross </span>
+<span data-uid='3' class='slabo'>hi mindy </span>
+<span data-uid='4' class='seaweed'>glare </span>
+<span data-uid='4' class='seaweed'>theres a huge glare  </span>
+<span data-uid='4' class='seaweed'>well not huge </span>
+<span data-uid='4' class='seaweed'>my sister loves this thing  </span>
+<span data-uid='4' class='seaweed'>vikki  </span>
+<span data-uid='4' class='seaweed'>shes got her mans kids signing on to it tonight  </span>
+<span data-uid='3' class='slabo'>hi mind!! </span>
+<span data-uid='3' class='slabo'>mindy!! </span>
+<span data-uid='3' class='slabo'>i&#039;m possessed </span>
+<span data-uid='4' class='seaweed'>lol  </span>
+<span data-uid='4' class='seaweed'>legend wait for it dairy </span>
+<span data-uid='4' class='seaweed'>legend  </span>
+<span data-uid='4' class='seaweed'>dairy </span>
+<span data-uid='4' class='seaweed'>legendary </span>
+<span data-uid='3' class='slabo'>chris, you give the english language a band-aid </span>
+<span data-uid='4' class='seaweed'>no its from a show fuck you vikki </span>
+<span data-uid='3' class='slabo'>will do! </span>
+<span data-uid='4' class='seaweed'>lol  </span>
+<span data-uid='3' class='slabo'>bye guys!! </span>
+<span data-uid='3' class='slabo'>chris is adopted </span>
+<span data-uid='3' class='slabo'>and a jew </span>
+<span data-uid='4' class='seaweed'>lol if i was adopted im sueing the adoption agency  </span>
+<span data-uid='3' class='slabo'>me too man. this is fucked up </span>
+<span data-uid='4' class='seaweed'>o here crazy 18 year old have a kid to beat lol  </span>
+<span data-uid='4' class='seaweed'>whats fucked up  </span>
+<span data-uid='3' class='slabo'>our family life </span>
+<span data-uid='4' class='seaweed'>o dont speak of it on here  </span>
+<span data-uid='4' class='seaweed'>this plays the chat to the table lol  </span>
+<span data-uid='3' class='slabo'>yeah i know.  Just making surface jokes </span>
+<span data-uid='4' class='seaweed'>lol word  </span>
+<span data-uid='4' class='seaweed'>aight im out for a bit  </span>
+<span data-uid='3' class='slabo'>ok </span>
+<span data-uid='3' class='slabo'>later kid </span>
+<span data-uid='3' class='slabo'>what&#039;s up </span>
+<span data-uid='4' class='seaweed'>sup sup  </span>
+<span data-uid='4' class='seaweed'>hello there ladies </span>
+<span data-uid='4' class='seaweed'>hello girls </span>
+<span data-uid='4' class='seaweed'>hold your palsm there </span>
+<span data-uid='4' class='seaweed'>i see you girls  </span>
+<span data-uid='4' class='seaweed'>you should bring other spirits  </span>
+<span data-uid='4' class='seaweed'>bring them to me  </span>
+<span data-uid='4' class='seaweed'>and they will serve me  </span>
+<span data-uid='4' class='seaweed'>all of the souls  </span>
+<span data-uid='4' class='seaweed'>nice glasses  </span>
+<span data-uid='4' class='seaweed'>i see you  </span>
+<span data-uid='4' class='seaweed'>give me your souls  </span>
+<span data-uid='4' class='seaweed'>i will take your soul by force </span>
+<span data-uid='2' class='yesteryear'>i will cut you into little pieces </span>
+<span data-uid='2' class='yesteryear'>sit down </span>
+<span data-uid='1' class='oswald'>need more victims </span>
+<span data-uid='3' class='slabo'>no u </span>
+<span data-uid='1' class='oswald'>no you </span>
+<span data-uid='1' class='oswald'>fgt </span>
+<span data-uid='3' class='slabo'>why am i the only one doing things to the room? </span>
+<span data-uid='1' class='oswald'>trying to as well </span>
+<span data-uid='1' class='oswald'>but.I&#039;m slow </span>
+<span data-uid='3' class='slabo'>its a one person at a time thing? lol </span>
+<span data-uid='1' class='oswald'>they&#039;re timed </span>
+<span data-uid='1' class='oswald'>waiting for more people to show  up</span>
+<span data-uid='4' class='seaweed'>no one is in the tseance room </span>
+<span data-uid='3' class='slabo'>they never are </span>
+<span data-uid='1' class='oswald'>there were earlier today </span>
+<span data-uid='4' class='seaweed'>Good night spirits..have a great weekend..see you back here Monday </span>
+<span data-uid='3' class='slabo'>where is everyone </span>
+<span data-uid='3' class='slabo'>how are you </span>
+<span data-uid='4' class='seaweed'>This is how this works </span>
+<span data-uid='4' class='seaweed'>Say stuff in here </span>
+<span data-uid='3' class='slabo'>Hello? anyone out there? </span>
+<span data-uid='1' class='oswald'>just us spirits </span>
+<span data-uid='3' class='slabo'>Boo </span>
+<span data-uid='1' class='oswald'>Thank you for visiting my show </span>
+<span data-uid='2' class='yesteryear'>Are you enjoying it so far? </span>
+<span data-uid='2' class='yesteryear'>glad to hear it </span>
+<span data-uid='3' class='slabo'>I&#039;m Casper, the friendly ghost / The DOPEST ghost in town / All the fishes love me &#039;cause I&#039;m ruckin  CASPER / The DOPEST ghost around.</span>
+<span data-uid='2' class='yesteryear'>haha </span>
+<span data-uid='2' class='yesteryear'>isn&#039;t that from kids? </span>
+<span data-uid='3' class='slabo'>I&#039;m not dead yet </span>
+<span data-uid='3' class='slabo'>Yeah lol KIDS... RIP tho he suicided <img src='smiles/sad.png'/> </span>
+<span data-uid='2' class='yesteryear'>have a seat please  </span>
+<span data-uid='2' class='yesteryear'>have a seat </span>
+<span data-uid='2' class='yesteryear'>rthank you </span>
+<span data-uid='2' class='yesteryear'>thank you </span>
+<span data-uid='2' class='yesteryear'>thank you thats a big  </span>
+<span data-uid='2' class='yesteryear'>back pack </span>
+<span data-uid='2' class='yesteryear'>word up </span>
+<span data-uid='1' class='oswald'>anyone? </span>
+<span data-uid='2' class='yesteryear'>anyone what </span>
+<span data-uid='2' class='yesteryear'>hello  </span>
+<span data-uid='1' class='oswald'>hello and welcome </span>
+<span data-uid='2' class='yesteryear'>i see you at the table </span>
+<span data-uid='1' class='oswald'>how are you today </span>
+<span data-uid='1' class='oswald'>hello there </span>
+<span data-uid='2' class='yesteryear'>dont be afraid </span>
+<span data-uid='2' class='yesteryear'>i only want your soul </span>
+<span data-uid='1' class='oswald'>it doesn&#039;t cost muc </span>
+<span data-uid='1' class='oswald'>h </span>
+<span data-uid='1' class='oswald'>what are you doing </span>
+<span data-uid='1' class='oswald'>stop that </span>
+<span data-uid='2' class='yesteryear'>ask us a question </span>
+<span data-uid='1' class='oswald'>old enough </span>
+<span data-uid='2' class='yesteryear'>older than you </span>
+<span data-uid='2' class='yesteryear'>hello </span>
+<span data-uid='2' class='yesteryear'>i like your glasses </span>
+<span data-uid='2' class='yesteryear'>and your hoody </span>
+<span data-uid='2' class='yesteryear'>we see you </span>
+<span data-uid='2' class='yesteryear'>we are legion </span>
+<span data-uid='2' class='yesteryear'>three fresh souls </span>
+<span data-uid='2' class='yesteryear'>i want to eat your soul </span>
+<span data-uid='2' class='yesteryear'>mustard is not good </span>
+<span data-uid='2' class='yesteryear'>not bruno </span>
+<span data-uid='2' class='yesteryear'>your ancestor </span>
+<span data-uid='2' class='yesteryear'>such a cute couple w</span>
+<span data-uid='2' class='yesteryear'>we have been waiting forever </span>
+<span data-uid='2' class='yesteryear'>i like your hair </span>
+<span data-uid='2' class='yesteryear'>there you go </span>
+<span data-uid='2' class='yesteryear'>ask us a question </span>
+<span data-uid='2' class='yesteryear'>nothing going on were dead </span>
+<span data-uid='2' class='yesteryear'>just waiting for souls to devour </span>
+<span data-uid='2' class='yesteryear'>over 9000 </span>
+<span data-uid='2' class='yesteryear'>3 years </span>
+<span data-uid='2' class='yesteryear'>years are short </span>
+<span data-uid='2' class='yesteryear'>whats your favorite scary movie </span>
+<span data-uid='2' class='yesteryear'>it is better </span>
+<span data-uid='2' class='yesteryear'>they all float down here </span>
+<span data-uid='2' class='yesteryear'>you gotta be fucking kidding </span>
+<span data-uid='1' class='oswald'>bye </span>
+<span data-uid='2' class='yesteryear'>need more visitors <img src='smiles/sad.png'/> </span>
+<span data-uid='2' class='yesteryear'>i like your shirt </span>
+<span data-uid='2' class='yesteryear'>it looks like its from star trek </span>
+<span data-uid='4' class='seaweed'>wha </span>
+<span data-uid='5' class='lora'>I wonder how the weegee board works </span>
+<span data-uid='2' class='yesteryear'>twitter </span>
+<span data-uid='2' class='yesteryear'>tweet with #sstp </span>
+<span data-uid='2' class='yesteryear'>#sstp </span>
+<span data-uid='4' class='seaweed'>dammit </span>
+<span data-uid='5' class='lora'>I swear I can see someone in the mirror on camera 4 </span>
+<span data-uid='4' class='seaweed'>who beat me to the phone </span>
+<span data-uid='2' class='yesteryear'>hello fresh souls </span>
+<span data-uid='1' class='oswald'>i like your glasses </span>
+<span data-uid='2' class='yesteryear'>ask me a question </span>
+<span data-uid='5' class='lora'>have you ever smelled a llama? Got reeeal close and took a deep whiff? </span>
+<span data-uid='2' class='yesteryear'>the internet is here </span>
+<span data-uid='2' class='yesteryear'>were not preprogrammed </span>
+<span data-uid='1' class='oswald'>no it&#039;s not </span>
+<span data-uid='5' class='lora'>I is... I is... I is the square root of negative one </span>
+<span data-uid='4' class='seaweed'>who walks away from a ringing phone? </span>
+<span data-uid='7' class='playfair'>I didn&#039;t finish my finals. Now I&#039;m trapped here forever. </span>
+<span data-uid='5' class='lora'>Selma didn&#039;t wear her safety goggles. Now she doesn&#039;t need to. BECAUSE SHE IS DEAD. </span>
+<span data-uid='1' class='oswald'>put your hands on me </span>
+<span data-uid='2' class='yesteryear'>im not a drum </span>
+<span data-uid='1' class='oswald'>stop laughing </span>
+<span data-uid='3' class='slabo'>aeiou aeiou aeiou aeiou aeiou aeiou aeiou aeiou aeiou aeiou aeiou aeiou aeiou aeiou aeiou aeiou aeiou aeiou aeiou </span>
+<span data-uid='5' class='lora'>from the elbow past the wrist, look out mortals, here&#039;s my FIST </span>
+<span data-uid='2' class='yesteryear'>im not a drum </span>
+<span data-uid='1' class='oswald'>ghosts are not a laughing matter </span>
+<span data-uid='2' class='yesteryear'>thats right, we see you </span>
+<span data-uid='4' class='seaweed'>who are you? </span>
+<span data-uid='4' class='seaweed'>i will not ask again </span>
+<span data-uid='4' class='seaweed'>ah dang nabbit </span>
+<span data-uid='2' class='yesteryear'>yes we are </span>
+<span data-uid='3' class='slabo'>hey sira!!! </span>
+<span data-uid='3' class='slabo'>sup </span>
+<span data-uid='4' class='seaweed'>Are you supposed to be in class right now </span>
+<span data-uid='2' class='yesteryear'>saturday is a good day to die </span>
+<span data-uid='5' class='lora'>ora ora ora ora ora ora ora </span>
+<span data-uid='2' class='yesteryear'>oh no its the fuzz </span>
+<span data-uid='4' class='seaweed'>Hello sweetie </span>
+<span data-uid='3' class='slabo'>ghost boner </span>
+<span data-uid='1' class='oswald'>john madden john madden john madden john madden </span>
+<span data-uid='2' class='yesteryear'>dont be scared </span>
+<span data-uid='4' class='seaweed'>lerooooooyyyyyyy </span>
+<span data-uid='3' class='slabo'>aeiou aeiou aeiou aeiou aeiou aeiou aeiou aeiou aeiou aeiou aeiou aeiou  </span>
+<span data-uid='2' class='yesteryear'>unoriginal ghosts </span>
+<span data-uid='5' class='lora'>I was once a horse in space, but I choked to death on a carrot </span>
+<span data-uid='1' class='oswald'>smitty werbenjagermanjensen </span>
+<span data-uid='3' class='slabo'>nice meme </span>
+<span data-uid='4' class='seaweed'>hahahaha </span>
+<span data-uid='1' class='oswald'>snake people, or sneople </span>
+<span data-uid='3' class='slabo'>serpent people </span>
+<span data-uid='1' class='oswald'>snosts (snail ghosts) </span>
+<span data-uid='7' class='playfair'>zamn zaddy </span>
+<span data-uid='5' class='lora'>It is I, the real slim shady </span>
+<span data-uid='7' class='playfair'>rare pepe don&#039;t steal </span>
+<span data-uid='3' class='slabo'>the rarest pepe </span>
+<span data-uid='3' class='slabo'>are you guys enjoying being dead </span>
+<span data-uid='2' class='yesteryear'>there aint no such thing as halfway spirits </span>
+<span data-uid='7' class='playfair'>rip in rest </span>
+<span data-uid='3' class='slabo'>rip in peace </span>
+<span data-uid='7' class='playfair'>rip in pieces </span>
+<span data-uid='5' class='lora'>I was  a pirate. My last words were Arrr, I pee.</span>
+<span data-uid='2' class='yesteryear'>press on the palms </span>
+<span data-uid='2' class='yesteryear'>press on the palms of the hands </span>
+<span data-uid='6' class='dynalight'>When people encounter sorrow, they try to forget it, and pretend it never existed at all.  </span>
+<span data-uid='2' class='yesteryear'>you got it </span>
+<span data-uid='2' class='yesteryear'>who farted </span>
+<span data-uid='2' class='yesteryear'>it was the guy with the glasses </span>
+<span data-uid='2' class='yesteryear'>its not funny </span>
+<span data-uid='2' class='yesteryear'>there will be more spirits after that gas attack </span>
+<span data-uid='2' class='yesteryear'>we want your soul </span>
+<span data-uid='6' class='dynalight'>If you fail your finals you will be stuck here like us </span>
+<span data-uid='7' class='playfair'>yes its an actual thing </span>
+<span data-uid='5' class='lora'>I is... I is... I IS THE SQUARE ROOT OF NEGATIVE ONE </span>
+<span data-uid='6' class='dynalight'>Don&#039;t touch the ouija board </span>
+<span data-uid='6' class='dynalight'>NO YOU SUCK </span>
+<span data-uid='2' class='yesteryear'>I see you </span>
+<span data-uid='7' class='playfair'>dumb guy is dumb </span>
+<span data-uid='6' class='dynalight'>That&#039;s better. </span>
+<span data-uid='3' class='slabo'>2spoopy4me </span>
+<span data-uid='5' class='lora'>have some pizza </span>
+<span data-uid='6' class='dynalight'>This is a lot easier, yes? </span>
+<span data-uid='6' class='dynalight'>Testing, one two three </span>
+<span data-uid='5' class='lora'>tell me your names </span>
+<span data-uid='3' class='slabo'>spooky scary skeletons </span>
+<span data-uid='6' class='dynalight'>Send shivers down your spine </span>
+<span data-uid='3' class='slabo'>aeiou aeiou aeiou aeiou aeiou aeiou aeiou aeiou aeiou aeiou aeiou aeiou aeiou aeiou aeiou </span>
+<span data-uid='2' class='yesteryear'>ask me a question </span>
+<span data-uid='5' class='lora'>My mind is the internet. I know every continuity mistake made on television </span>
+<span data-uid='2' class='yesteryear'>ask me a question </span>
+<span data-uid='7' class='playfair'>tits or gtfo </span>
+<span data-uid='3' class='slabo'>What the fuck did you just fucking say about me, you little bitch? I&rsquo;ll have you know I graduated top of my class in the Navy Seals, and I&rsquo;ve been involved in numerous secret raids on Al-Quaeda, and I have over 300 confirmed kills. I am traine</span>
+<span data-uid='6' class='dynalight'>Smitty </span>
+<span data-uid='5' class='lora'>Steve </span>
+<span data-uid='9' class='oswald'>i am the real slim shady </span>
+<span data-uid='2' class='yesteryear'>ask me a question about the future </span>
+<span data-uid='6' class='dynalight'>Will the real slim shady please stand up then? </span>
+<span data-uid='9' class='oswald'>thank for for gathering at my table </span>
+<span data-uid='5' class='lora'>I am either Shawn Bawn or Scene Bean, but not Shawn Been </span>
+<span data-uid='2' class='yesteryear'>ignore the phone </span>
+<span data-uid='3' class='slabo'>john madden john madden john madden john madden john madden john madden john madden john madden john madden john madden </span>
+<span data-uid='9' class='oswald'>hey can you guys get me a beer </span>
+<span data-uid='2' class='yesteryear'>ignore the phone </span>
+<span data-uid='11' class='slabo'>gotta press on the palms </span>
+<span data-uid='5' class='lora'>Future cloudy, please ask later </span>
+<span data-uid='6' class='dynalight'>Moon Space Alpha </span>
+<span data-uid='3' class='slabo'>yes show your friends the moonbase alpha video </span>
+<span data-uid='6' class='dynalight'>Watch it again </span>
+<span data-uid='3' class='slabo'>there&#039;s a sequel? </span>
+<span data-uid='5' class='lora'>one of the people at this table is a murderer </span>
+<span data-uid='11' class='slabo'>press on the bottom of the palms </span>
+<span data-uid='11' class='slabo'>the hands will buzz </span>
+<span data-uid='9' class='oswald'>you can&#039;t claim a phone </span>
+<span data-uid='2' class='yesteryear'>tell me a secret </span>
+<span data-uid='11' class='slabo'>youve got a pretty mouth </span>
+<span data-uid='6' class='dynalight'>You can&#039;t claim the phone </span>
+<span data-uid='11' class='slabo'>you </span>
+<span data-uid='9' class='oswald'>all of you </span>
+<span data-uid='5' class='lora'>I was once a horse in space, but I died in re-entry </span>
+<span data-uid='2' class='yesteryear'>tell me a secret </span>
+<span data-uid='5' class='lora'>I won&#039;t judge you, ma&#039;am </span>
+<span data-uid='6' class='dynalight'>Mark </span>
+<span data-uid='2' class='yesteryear'>tell us a secret </span>
+<span data-uid='6' class='dynalight'>Mark </span>
+<span data-uid='3' class='slabo'>don&#039;t answer the phone it&#039;s a murderer </span>
+<span data-uid='11' class='slabo'>press on the bottom of the palms </span>
+<span data-uid='10' class='yesteryear'>Answer the phone it&#039;s an honest person. </span>
+<span data-uid='11' class='slabo'>the hands will buzz </span>
+<span data-uid='6' class='dynalight'>what would you like to know? </span>
+<span data-uid='6' class='dynalight'>22 </span>
+<span data-uid='5' class='lora'>What do you call it when a bunch of old nuns gather together to watch action movies? Old habits die hard. </span>
+<span data-uid='11' class='slabo'>over 9000 </span>
+<span data-uid='10' class='yesteryear'>23 </span>
+<span data-uid='9' class='oswald'>i am eternal </span>
+<span data-uid='11' class='slabo'>over 9000 </span>
+<span data-uid='2' class='yesteryear'>I think one of you farted </span>
+<span data-uid='3' class='slabo'>god I love being a ghost </span>
+<span data-uid='3' class='slabo'>oooooo00000000000000oooooooooooo </span>
+<span data-uid='6' class='dynalight'>You should be a ghost with me </span>
+<span data-uid='2' class='yesteryear'>I think one of you farted </span>
+<span data-uid='6' class='dynalight'>Great </span>
+<span data-uid='6' class='dynalight'>You simply have to jump off the balcony on this floor </span>
+<span data-uid='2' class='yesteryear'>yes </span>
+<span data-uid='11' class='slabo'>no it was the girl in the back </span>
+<span data-uid='10' class='yesteryear'>Don&#039;t do it </span>
+<span data-uid='6' class='dynalight'>I&#039;m sorry that was in poor taste </span>
+<span data-uid='10' class='yesteryear'>It&#039;s cold here. </span>
+<span data-uid='9' class='oswald'>your hands feel nice </span>
+<span data-uid='3' class='slabo'>it was everyone who farted </span>
+<span data-uid='6' class='dynalight'>I&#039;m sorry that wasn&#039;t a nice thing of me to say </span>
+<span data-uid='11' class='slabo'>we each have our own voice </span>
+<span data-uid='5' class='lora'>Speak for yourself, cold ghost. I&#039;m in the ghost bahamas. </span>
+<span data-uid='10' class='yesteryear'>You don&#039;t know my afterlife. </span>
+<span data-uid='5' class='lora'>These are not the ghosts you are looking for. </span>
+<span data-uid='11' class='slabo'>who you gonna call </span>
+<span data-uid='3' class='slabo'>no you </span>
+<span data-uid='6' class='dynalight'>I&#039;m sorry. Don&#039;t become ghosts before your time. I know I regret it. </span>
+<span data-uid='5' class='lora'>Za warudo. Time has ceased movement. </span>
+<span data-uid='3' class='slabo'>boo </span>
+<span data-uid='3' class='slabo'>2 spoopy 4 me </span>
+<span data-uid='9' class='oswald'>i miss being able to drink </span>
+<span data-uid='6' class='dynalight'>Zangoku na tenshi no yooni </span>
+<span data-uid='10' class='yesteryear'>What </span>
+<span data-uid='11' class='slabo'>we can hear when you whisper </span>
+<span data-uid='1' class='oswald'>OH BABY I LOVE YOU </span>
+<span data-uid='5' class='lora'>ohio mortal senpai </span>
+<span data-uid='10' class='yesteryear'>OKay then </span>
+<span data-uid='3' class='slabo'>I have more rare pepes than any other ghost </span>
+<span data-uid='6' class='dynalight'>pe-pes </span>
+<span data-uid='9' class='oswald'>i love may mays </span>
+<span data-uid='6' class='dynalight'>peh-pehs </span>
+<span data-uid='11' class='slabo'>there are over 9000 </span>
+<span data-uid='3' class='slabo'>infinity ghosts </span>
+<span data-uid='1' class='oswald'>too many ghosts </span>
+<span data-uid='11' class='slabo'>9 </span>
+<span data-uid='1' class='oswald'>at least nine </span>
+<span data-uid='9' class='oswald'>hey don&#039;t be ghost racist </span>
+<span data-uid='6' class='dynalight'>That&#039;s abelist </span>
+<span data-uid='10' class='yesteryear'>As many ghosts as there are beings dying all across the world and all other worlds. </span>
+<span data-uid='3' class='slabo'>I&#039;m a skeleton trapped in a ghost&#039;s body </span>
+<span data-uid='9' class='oswald'>there are like three worlds </span>
+<span data-uid='10' class='yesteryear'>As many as you can imagine. </span>
+<span data-uid='1' class='oswald'>Maybe like 5 </span>
+<span data-uid='10' class='yesteryear'>5 that matter. </span>
+<span data-uid='11' class='slabo'>cut off his head </span>
+<span data-uid='11' class='slabo'>his </span>
+<span data-uid='6' class='dynalight'>Do you want to talk to anyone in particular? </span>
+<span data-uid='1' class='oswald'>The guy with the dumb hair </span>
+<span data-uid='1' class='oswald'>gosh </span>
+<span data-uid='11' class='slabo'>this is ghandi </span>
+<span data-uid='6' class='dynalight'>mY SECRET IS EXPOSED </span>
+<span data-uid='1' class='oswald'>backpack guy </span>
+<span data-uid='11' class='slabo'>now kiss </span>
+<span data-uid='1' class='oswald'>why do you exist </span>
+<span data-uid='3' class='slabo'>make out now </span>
+<span data-uid='6' class='dynalight'>fucking owned </span>
+<span data-uid='9' class='oswald'>yes kill ross </span>
+<span data-uid='5' class='lora'>I am the ghost of celebrities broken careers </span>
+<span data-uid='1' class='oswald'>Join us ross </span>
+<span data-uid='11' class='slabo'>now kiss </span>
+<span data-uid='6' class='dynalight'>Thank you we&#039;ll be here until April 30th </span>
+<span data-uid='5' class='lora'>who the fuck is ross </span>
+<span data-uid='3' class='slabo'>you&#039;ll be stuck here until april 30th also </span>
+<span data-uid='3' class='slabo'>there is no escape </span>
+<span data-uid='5' class='lora'>have you ever smelled a llama? got in really deep and took a deep whiff? </span>
+<span data-uid='6' class='dynalight'>that&#039;s good. We&#039;re glad you&#039;re staying. Not many people talk to the dead </span>
+<span data-uid='1' class='oswald'>Nic cage </span>
+<span data-uid='3' class='slabo'>nic cage </span>
+<span data-uid='5' class='lora'>nic cage </span>
+<span data-uid='10' class='yesteryear'>Nic Cage </span>
+<span data-uid='9' class='oswald'>nic cage </span>
+<span data-uid='6' class='dynalight'>Terry Pratchet </span>
+<span data-uid='1' class='oswald'>Also your mom eeeeyo </span>
+<span data-uid='10' class='yesteryear'>Terry Prachett </span>
+<span data-uid='5' class='lora'>we&#039;re all the ghosts of nic cage&#039;s career </span>
+<span data-uid='6' class='dynalight'>No. Terry Pratchett </span>
+<span data-uid='1' class='oswald'>I am the ghost rider. it&#039;s me </span>
+<span data-uid='3' class='slabo'>thank you for using ghost to speech two point zero </span>
+<span data-uid='6' class='dynalight'>You should watch The Room </span>
+<span data-uid='1' class='oswald'>You should watch wikerman </span>
+<span data-uid='8' class='allura'>should I be typing something here? </span>
+<span data-uid='5' class='lora'>hey. hey guys. what do you call it when a bunch of elderly nuns watch action movies? old habits die hard. </span>
+<span data-uid='9' class='oswald'>MOM I AM TALKING TO THE MORTALS GET OUT OF MY ROOM </span>
+<span data-uid='1' class='oswald'>Wickerman </span>
+<span data-uid='10' class='yesteryear'>Watch the more &#039;Airplane!&quot; </span>
+<span data-uid='1' class='oswald'>With the bees </span>
+<span data-uid='3' class='slabo'>no ghost that is the hundredth time you made that old habits die hard pun </span>
+<span data-uid='6' class='dynalight'>God dammit your puns suck </span>
+<span data-uid='5' class='lora'>it&#039;s the only pun I know </span>
+<span data-uid='6' class='dynalight'>I can&#039;t believe I&#039;m stuck with you for eternity </span>
+<span data-uid='1' class='oswald'>No excuse </span>
+<span data-uid='9' class='oswald'>MOM I AM TALKING TO THE MORTALS GET OUT OF MY ROOM </span>
+<span data-uid='10' class='yesteryear'>I&#039;m sorry you had to walk in on this Afterlife Argument. </span>
+<span data-uid='11' class='slabo'>whats that, whos there? hold me im scared </span>
+<span data-uid='1' class='oswald'>Take out the trash billy </span>
+<span data-uid='5' class='lora'>future hazy ask again later </span>
+<span data-uid='3' class='slabo'>In this moment, I am euphoric. Not because of any phony god&rsquo;s blessing. But because, I am enlightened by my intelligence. </span>
+<span data-uid='10' class='yesteryear'>You will have a long and happy life as an apology. </span>
+<span data-uid='6' class='dynalight'>I think it was Oscar Wilde </span>
+<span data-uid='6' class='dynalight'>He picked the wallpaper </span>
+<span data-uid='1' class='oswald'>Do you know who I am </span>
+<span data-uid='1' class='oswald'>I am john galt </span>
+<span data-uid='5' class='lora'>Nicholas Cage picked the wallpapers </span>
+<span data-uid='3' class='slabo'>It selects random things we say instead of doing it in order you see </span>
+<span data-uid='5' class='lora'>Ross. Ross. I know what you did this Summer. </span>
+<span data-uid='11' class='slabo'>fly you fools </span>
+<span data-uid='6' class='dynalight'>Are you looking for Gandalf? </span>
+<span data-uid='9' class='oswald'>ross, you broke my heart </span>
+<span data-uid='1' class='oswald'>You ate at least one hotdog, Ross </span>
+<span data-uid='5' class='lora'>You had a summer job </span>
+<span data-uid='1' class='oswald'>It was the hotdog of my dreams </span>
+<span data-uid='3' class='slabo'>For twelve years, you have been asking: Who is John Galt? This is John Galt speaking. I am the man who loves his life. I am the man who does not sacrifice his love or his values. I am the man who has deprived you of victims and thus has destroyed your wor</span>
+<span data-uid='5' class='lora'>If every porkchop was perfect, we wouldn&#039;t have hotdogs, ross. </span>
+<span data-uid='1' class='oswald'>God damn it john </span>
+<span data-uid='11' class='slabo'>at least one ghost reads shitty literature </span>
+<span data-uid='10' class='yesteryear'>Why aren&#039;t you in Hell John Galt. </span>
+<span data-uid='6' class='dynalight'>God dammit shut the fuck up John Galt </span>
+<span data-uid='9' class='oswald'>okay, enough talk. everyone make out. the spirits command it </span>
+<span data-uid='11' class='slabo'>at least one ghost reads shitty literature  </span>
+<span data-uid='6' class='dynalight'>Happy Days </span>
+<span data-uid='11' class='slabo'>walking dead </span>
+<span data-uid='5' class='lora'>My favorite tv show is Steven Universe </span>
+<span data-uid='6' class='dynalight'>We are the crystal gems </span>
+<span data-uid='11' class='slabo'>game of shut the fuck up </span>
+<span data-uid='3' class='slabo'>fuck you </span>
+<span data-uid='10' class='yesteryear'>A CURSE ON ALL OF YOU </span>
+<span data-uid='9' class='oswald'>are you talking shit about steven universe </span>
+<span data-uid='6' class='dynalight'>How dare you cut me off </span>
+<span data-uid='10' class='yesteryear'>You wanna go? </span>
+<span data-uid='1' class='oswald'>You fools will rue this say </span>
+<span data-uid='1' class='oswald'>I mean, day </span>
+<span data-uid='6' class='dynalight'>You havin a gaggle mate </span>
+<span data-uid='11' class='slabo'>put that down </span>
+<span data-uid='1' class='oswald'>fuck </span>
+<span data-uid='10' class='yesteryear'>Okay </span>
+<span data-uid='9' class='oswald'>put the ball down ross </span>
+<span data-uid='6' class='dynalight'>fight me bitch </span>
+<span data-uid='5' class='lora'>thank you ross, you have good taste in tv shows </span>
+<span data-uid='3' class='slabo'>&lsquo;In this moment, I am euphoric. Not because of any phony god&rsquo;s blessing. But because, I am enlightened by my intelligence.&rsquo;&quot; </span>
+<span data-uid='1' class='oswald'>Come at me bro </span>
+<span data-uid='11' class='slabo'>YOU WOT MATE </span>
+<span data-uid='6' class='dynalight'>I&#039;ll bash your fookin head in I swear on me mum </span>
+<span data-uid='9' class='oswald'>ross stop trying to find us </span>
+<span data-uid='5' class='lora'>your hands feel nice </span>
+<span data-uid='3' class='slabo'>we&#039;re in the ghost plane </span>
+<span data-uid='1' class='oswald'>Do you know who you are talking to? it&#039;s russel crowe </span>
+<span data-uid='10' class='yesteryear'>On the Ghost Airline. </span>
+<span data-uid='1' class='oswald'>I will fight you </span>
+<span data-uid='6' class='dynalight'>We can&#039;t be found. We are in a different plane of existence. One with cable </span>
+<span data-uid='9' class='oswald'>i will haunt you until the end of days. or at least until i get bored </span>
+<span data-uid='3' class='slabo'>I don&#039;t know who you are. I don&#039;t know what you want. If you are looking for ransom, I can tell you I don&#039;t have money. But what I do have are a very particular set of skills, skills I have acquired over a very long career. Skills that make</span>
+<span data-uid='5' class='lora'>I will now say some words that rhyme with Ross. Boss. Loss. Toss. Zoss. Ross. Boss. </span>
+<span data-uid='1' class='oswald'>John madden john madden john madden john madden </span>
+<span data-uid='10' class='yesteryear'>We watch a lot of movies on the Ghost Plane. </span>
+<span data-uid='6' class='dynalight'>stop quoting movies Bob </span>
+<span data-uid='6' class='dynalight'>We have Avengers Age of Ultron </span>
+<span data-uid='3' class='slabo'>the only movie we have is bill cosby&#039;s ghost dad </span>
+<span data-uid='6' class='dynalight'>It&#039;s okay </span>
+<span data-uid='1' class='oswald'>It&#039;s a literal plane in the sky </span>
+<span data-uid='5' class='lora'>toki wo tomare &quot;what the fuck is this weeaboo shit&quot; toyu </span>
+<span data-uid='10' class='yesteryear'>It was okay. </span>
+<span data-uid='11' class='slabo'>were not under the table </span>
+<span data-uid='3' class='slabo'>iron man kills hulk </span>
+<span data-uid='6' class='dynalight'>Spoiler Alert, iron man kills hulk </span>
+<span data-uid='1' class='oswald'>Also man I want a pizza. order me a pizza please, hold the anchovies, extra olives </span>
+<span data-uid='5' class='lora'>ultron is actually johhny five </span>
+<span data-uid='10' class='yesteryear'>OH WELL THEN </span>
+<span data-uid='6' class='dynalight'>I was disappointed by that </span>
+<span data-uid='3' class='slabo'>order me a ghost pizza </span>
+<span data-uid='10' class='yesteryear'>I DIDN&#039;T WANT TO BE SURPRISED BY THAT PLOT TWIST ANYWAYS!!! </span>
+<span data-uid='10' class='yesteryear'>That was rude. </span>
+<span data-uid='1' class='oswald'>Do not make fun of my speech disability you abliest sons of bitches </span>
+<span data-uid='9' class='oswald'>so i took a look into all your futures. if ross owes money to any of you, you should collect now </span>
+<span data-uid='6' class='dynalight'>Tits or Get the fuck out </span>
+<span data-uid='3' class='slabo'>wow rude </span>
+<span data-uid='10' class='yesteryear'>I&#039;m sorry </span>
+<span data-uid='11' class='slabo'>ross take off your pants </span>
+<span data-uid='6' class='dynalight'>What are all your names? </span>
+<span data-uid='3' class='slabo'>I apologize for the &quot;tits or gtfo&quot; ghost </span>
+<span data-uid='5' class='lora'>We have the series finale of Steven Universe. It&#039;s three hours long and directed by studio gainax. </span>
+<span data-uid='6' class='dynalight'>Katie </span>
+<span data-uid='11' class='slabo'>ross take off you rpants </span>
+<span data-uid='1' class='oswald'>Hello katie do you want to play a game? </span>
+<span data-uid='9' class='oswald'>alex put on ross&#039;s pants </span>
+<span data-uid='6' class='dynalight'>Kaytie </span>
+<span data-uid='11' class='slabo'>k tee </span>
+<span data-uid='1' class='oswald'>Kayy </span>
+<span data-uid='1' class='oswald'>K t </span>
+<span data-uid='5' class='lora'>kaytear </span>
+<span data-uid='3' class='slabo'>&lsquo;In this moment, I am euphoric. Not because of any phony god&rsquo;s blessing. But because, I am enlightened by my intelligence.&rsquo;&quot; </span>
+<span data-uid='9' class='oswald'>it is hard for ghosts to say kay tee </span>
+<span data-uid='10' class='yesteryear'>I have played you a song. </span>
+<span data-uid='6' class='dynalight'>Sorry Frank Sinatra likes to cut in a lot </span>
+<span data-uid='5' class='lora'>kay tee tunstall </span>
+<span data-uid='10' class='yesteryear'>You are welcome. </span>
+<span data-uid='11' class='slabo'>let me play you the song of my people </span>
+<span data-uid='1' class='oswald'>Kay tee let&#039;s play poker </span>
+<span data-uid='1' class='oswald'>too bad other guy </span>
+<span data-uid='6' class='dynalight'>Do any of you speak German? </span>
+<span data-uid='1' class='oswald'>Just kay tee </span>
+<span data-uid='5' class='lora'>ross you cheat at poker </span>
+<span data-uid='3' class='slabo'>I take off my ghost clothes </span>
+<span data-uid='10' class='yesteryear'>NICE! </span>
+<span data-uid='1' class='oswald'>Strip poker </span>
+<span data-uid='6' class='dynalight'>Good. We have a german ghost here and we don&#039;t know what he&#039;s saying </span>
+<span data-uid='1' class='oswald'>Ok </span>
+<span data-uid='1' class='oswald'>You now have five ghost cards </span>
+<span data-uid='6' class='dynalight'>Thank you </span>
+<span data-uid='3' class='slabo'>ok you&#039;ll have to take my word for it but I have 5 aces, pay up </span>
+<span data-uid='1' class='oswald'>They are invisible </span>
+<span data-uid='1' class='oswald'>Also you can&#039;t touch them </span>
+<span data-uid='1' class='oswald'>And you are not allowed to know what cards they are </span>
+<span data-uid='6' class='dynalight'>oh damn ghost owned </span>
+<span data-uid='3' class='slabo'>my aces are better </span>
+<span data-uid='1' class='oswald'>Discard two </span>
+<span data-uid='3' class='slabo'>fuck you </span>
+<span data-uid='6' class='dynalight'>Fuck I have king high, that&#039;s all </span>
+<span data-uid='1' class='oswald'>Great ok </span>
+<span data-uid='1' class='oswald'>You lose </span>
+<span data-uid='6' class='dynalight'>Dammit </span>
+<span data-uid='10' class='yesteryear'>Well damn </span>
+<span data-uid='9' class='oswald'>hit me </span>
+<span data-uid='1' class='oswald'>Take it off. take it all off </span>
+<span data-uid='11' class='slabo'>YOU LOSE YOUR LIFE </span>
+<span data-uid='5' class='lora'>puh puh puh poker face puh puh poker face </span>
+<span data-uid='9' class='oswald'>21 black jack </span>
+<span data-uid='11' class='slabo'>thats not the camera </span>
+<span data-uid='6' class='dynalight'>It&#039;s ghost rules </span>
+<span data-uid='3' class='slabo'>I&#039;ll have you know that 5 aces is perfectly valid if you&#039;re playing with wild cards </span>
+<span data-uid='9' class='oswald'>i mean what camera </span>
+<span data-uid='9' class='oswald'>there are no cameras </span>
+<span data-uid='6' class='dynalight'>Not really </span>
+<span data-uid='1' class='oswald'>You ker? </span>
+<span data-uid='11' class='slabo'>alex </span>
+<span data-uid='3' class='slabo'>yes really </span>
+<span data-uid='6' class='dynalight'>You look familiar </span>
+<span data-uid='9' class='oswald'>you are alex </span>
+<span data-uid='11' class='slabo'>alex </span>
+<span data-uid='5' class='lora'>Enough poker. It&#039;s time to doo doo doo doo doo doo doo duel </span>
+<span data-uid='6' class='dynalight'>Yaldaboth. </span>
+<span data-uid='3' class='slabo'>duel to death </span>
+<span data-uid='10' class='yesteryear'>ahaahahahaha </span>
+<span data-uid='11' class='slabo'>to the pain </span>
+<span data-uid='6' class='dynalight'>My name is Yal-da-both </span>
+<span data-uid='3' class='slabo'>duel until you get sent to the shadow realm </span>
+<span data-uid='10' class='yesteryear'>Yes </span>
+<span data-uid='5' class='lora'>Homestuck is my favorite anime </span>
+<span data-uid='9' class='oswald'>the shadow realm is a party realm actually </span>
+<span data-uid='10' class='yesteryear'>Yes </span>
+<span data-uid='3' class='slabo'>let me tell you about homestuck </span>
+<span data-uid='1' class='oswald'>I should have mentioned that the shadow realm is where we are </span>
+<span data-uid='10' class='yesteryear'>ahahahaha </span>
+<span data-uid='9' class='oswald'>the shadow realm is a party realm actually </span>
+<span data-uid='6' class='dynalight'>The shadow realm sucks. All the anime is dubbed by 4 kids </span>
+<span data-uid='3' class='slabo'>the kirby anime is the only anime worth watching </span>
+<span data-uid='5' class='lora'>literally four kids. </span>
+<span data-uid='6' class='dynalight'>Kirby is a great show </span>
+<span data-uid='9' class='oswald'>guys ghosts cannot say anne eh may </span>
+<span data-uid='5' class='lora'>I&#039;m not in the shadow realm. I&#039;m the ghost bahamas </span>
+<span data-uid='11' class='slabo'>alex has herpes </span>
+<span data-uid='6' class='dynalight'>Alex </span>
+<span data-uid='3' class='slabo'>alex sucks </span>
+<span data-uid='1' class='oswald'>You have not lived until you have seen meta knight get hit in the face with a pie </span>
+<span data-uid='6' class='dynalight'>Alex you met me before I died but you cut me in line so screw you </span>
+<span data-uid='3' class='slabo'>alex is cool I want to meet him. you should kill him so I can meet him </span>
+<span data-uid='5' class='lora'>ness ness ness ness ness ness ness ness </span>
+<span data-uid='6' class='dynalight'>No we do not condone killing </span>
+<span data-uid='11' class='slabo'>one of the ghosts has a conscience </span>
+<span data-uid='10' class='yesteryear'>Maybe </span>
+<span data-uid='6' class='dynalight'>Villager </span>
+<span data-uid='9' class='oswald'>i main kirby </span>
+<span data-uid='6' class='dynalight'>nO FUCK YOU </span>
+<span data-uid='3' class='slabo'>You Cannot Grasp The True Form of Giygas </span>
+<span data-uid='5' class='lora'>I main Mii Brawler </span>
+<span data-uid='1' class='oswald'>Fuck off ghost 1, kirby is the shit </span>
+<span data-uid='6' class='dynalight'>no fuck you ghost 2 </span>
+<span data-uid='3' class='slabo'>gotta go fast </span>
+<span data-uid='10' class='yesteryear'>Gotta go fast! </span>
+<span data-uid='3' class='slabo'>gotta go fast </span>
+<span data-uid='1' class='oswald'>No </span>
+<span data-uid='3' class='slabo'>you&#039;re too slow </span>
+<span data-uid='6' class='dynalight'>You&#039;d be surprised how many ghost are memers </span>
+<span data-uid='11' class='slabo'>no were not </span>
+<span data-uid='3' class='slabo'>sanic </span>
+<span data-uid='11' class='slabo'>youre slow in the brain </span>
+<span data-uid='1' class='oswald'>Shut up foolish humans </span>
+<span data-uid='3' class='slabo'>fastest horgeheg alive </span>
+<span data-uid='1' class='oswald'>you know nothing </span>
+<span data-uid='11' class='slabo'>JOHN SNOW </span>
+<span data-uid='11' class='slabo'>you kiss your mother with that mouth </span>
+<span data-uid='11' class='slabo'>does she like it </span>
+<span data-uid='3' class='slabo'>humans suck undead master race </span>
+<span data-uid='6' class='dynalight'>One good thing about Game of Thrones is that we have HBO here. </span>
+<span data-uid='2' class='yesteryear'>Let me tell you about Homestuck </span>
+<span data-uid='1' class='oswald'>Baby I love you </span>
+<span data-uid='11' class='slabo'>i cast magic missile on the darkness </span>
+<span data-uid='5' class='lora'>I will shit miles of rage snake to choke you to death </span>
+<span data-uid='7' class='playfair'>You can check out any time you want but you can never leave </span>
+<span data-uid='3' class='slabo'>homestuck is bad </span>
+<span data-uid='6' class='dynalight'>Thank you </span>
+<span data-uid='6' class='dynalight'>You too </span>
+<span data-uid='1' class='oswald'>love you guys </span>
+<span data-uid='1' class='oswald'>bye </span>
+<span data-uid='3' class='slabo'>FUCK YOU HUMAN </span>
+<span data-uid='8' class='allura'>F YOU GHOST </span>
+<span data-uid='2' class='yesteryear'>Hello? </span>
+<span data-uid='2' class='yesteryear'>hi </span>
+<span data-uid='1' class='oswald'>WHAT IS LOVE? BABY DON&#039;T HURT ME, DON&#039;T HURT ME, NO MOOOOORE  </span>
+<span data-uid='7' class='playfair'>kill ross </span>
+<span data-uid='5' class='lora'>I like your hair, curly hair man </span>
+<span data-uid='6' class='dynalight'>Bruuuuuuuuuuno </span>
+<span data-uid='2' class='yesteryear'>what </span>
+<span data-uid='2' class='yesteryear'>what </span>
+<span data-uid='6' class='dynalight'>Broooooooooooono </span>
+<span data-uid='2' class='yesteryear'>what </span>
+<span data-uid='5' class='lora'>Oh my god indeed </span>
+<span data-uid='7' class='playfair'>you guys look like nerds </span>
+<span data-uid='2' class='yesteryear'>ask us a question </span>
+<span data-uid='7' class='playfair'>I am me </span>
+<span data-uid='2' class='yesteryear'>any question </span>
+<span data-uid='6' class='dynalight'>Any question </span>
+<span data-uid='1' class='oswald'>ask away </span>
+<span data-uid='2' class='yesteryear'>nic cage </span>
+<span data-uid='5' class='lora'>I am the ghost of Nicholas Cage </span>
+<span data-uid='7' class='playfair'>nick cage </span>
+<span data-uid='2' class='yesteryear'>not nico </span>
+<span data-uid='6' class='dynalight'>No </span>
+<span data-uid='2' class='yesteryear'>i am dead </span>
+<span data-uid='2' class='yesteryear'>you will be soon too </span>
+<span data-uid='5' class='lora'>I didn&#039;t wear my safety goggles. Now I don&#039;t have to. </span>
+<span data-uid='7' class='playfair'>guy with glasses smells like pine </span>
+<span data-uid='7' class='playfair'>pine </span>
+<span data-uid='6' class='dynalight'>to be honest, a lot of these ghosts actually aren&#039;t at this college. They were brought here by one local ghost. </span>
+<span data-uid='2' class='yesteryear'>we know everything </span>
+<span data-uid='7' class='playfair'>pine </span>
+<span data-uid='5' class='lora'>bruno mars </span>
+<span data-uid='2' class='yesteryear'>someone at the table farted </span>
+<span data-uid='4' class='seaweed'>one local ghost </span>
+<span data-uid='4' class='seaweed'>who farted </span>
+<span data-uid='7' class='playfair'>it was the girl </span>
+<span data-uid='2' class='yesteryear'>tell us a story </span>
+<span data-uid='2' class='yesteryear'>bruno take off your pants </span>
+<span data-uid='4' class='seaweed'>is that heinz </span>
+<span data-uid='6' class='dynalight'>We know your name because your friend said it. </span>
+<span data-uid='4' class='seaweed'>heinz </span>
+<span data-uid='2' class='yesteryear'>were waiting for a story </span>
+<span data-uid='4' class='seaweed'>Heinz has great hair </span>
+<span data-uid='4' class='seaweed'>HEINZ </span>
+<span data-uid='5' class='lora'>Heinz. I like your ketchup. </span>
+<span data-uid='6' class='dynalight'>Is it Heinz? </span>
+<span data-uid='6' class='dynalight'>Hein? </span>
+<span data-uid='4' class='seaweed'>HEIN </span>
+<span data-uid='7' class='playfair'>Hein you have nice hair </span>
+<span data-uid='6' class='dynalight'>Canada </span>
+<span data-uid='5' class='lora'>I bet you thought it was a ghost, but it was me, Dio. </span>
+<span data-uid='2' class='yesteryear'>pakistan </span>
+<span data-uid='7' class='playfair'>it is not alex </span>
+<span data-uid='2' class='yesteryear'>mars </span>
+<span data-uid='2' class='yesteryear'>knock it off mom im talking to ghosts </span>
+<span data-uid='7' class='playfair'>what is the girls name </span>
+<span data-uid='4' class='seaweed'>Jenny </span>
+<span data-uid='6' class='dynalight'>Sarah? </span>
+<span data-uid='4' class='seaweed'>Molly </span>
+<span data-uid='6' class='dynalight'>Pam </span>
+<span data-uid='5' class='lora'>My name is Inigo Montoya. You killed me. Prepare to die. </span>
+<span data-uid='6' class='dynalight'>You guys are nice people </span>
+<span data-uid='4' class='seaweed'>Kristen </span>
+<span data-uid='7' class='playfair'>kirsten </span>
+<span data-uid='2' class='yesteryear'>what is your name, your number, your serial number, how tall you are, whether you are susceptible to any diseases </span>
+<span data-uid='6' class='dynalight'>Aaaaaw </span>
+<span data-uid='5' class='lora'>Bread </span>
+<span data-uid='2' class='yesteryear'>join us </span>
+<span data-uid='7' class='playfair'>you will not survive the winter </span>
+<span data-uid='4' class='seaweed'>Shunnn the non believerrrrrrrrrrrrr </span>
+<span data-uid='2' class='yesteryear'>winter is coming </span>
+<span data-uid='5' class='lora'>I was once a horse in space, but I choked to death on a carrot. </span>
+<span data-uid='2' class='yesteryear'>you know nothing... john snoooooooooo </span>
+<span data-uid='6' class='dynalight'>Jessica? </span>
+<span data-uid='5' class='lora'>I am the ghost of a horsestronaut </span>
+<span data-uid='7' class='playfair'>no </span>
+<span data-uid='4' class='seaweed'>I was an adventurer once, until I caught an arrow to the knee </span>
+<span data-uid='6' class='dynalight'>Horse-trou-naught. Like an astronaut, but a horse. </span>
+<span data-uid='6' class='dynalight'>Horse-trou-naughts are very rare elite breed. </span>
+<span data-uid='5' class='lora'>We  have such sights to show you.</span>
+<span data-uid='4' class='seaweed'>shining shimmering splended </span>
+<span data-uid='7' class='playfair'>do you want to hear a pun about nuns? </span>
+<span data-uid='5' class='lora'>Hein. Bruno. Hur My Oh Knee. You are the golden trio. </span>
+<span data-uid='4' class='seaweed'>tell me princess now when did </span>
+<span data-uid='2' class='yesteryear'>shut up about the nuns other ghost </span>
+<span data-uid='4' class='seaweed'>you last let your heart decide </span>
+<span data-uid='6' class='dynalight'>We talk among ourselves sometimes </span>
+<span data-uid='5' class='lora'>We ghosts are a fickle breed </span>
+<span data-uid='7' class='playfair'>come at me bro </span>
+<span data-uid='6' class='dynalight'>There&#039;s a lot of us, so we don&#039;t always agree </span>
+<span data-uid='2' class='yesteryear'>u wot m8 </span>
+<span data-uid='4' class='seaweed'>dont&#039; taze me bro </span>
+<span data-uid='5' class='lora'>Horse ghost is in the Ghost Bahamas. It is nice here. </span>
+<span data-uid='2' class='yesteryear'>i played you the song of our people </span>
+<span data-uid='6' class='dynalight'>Da nanana da nanana batman </span>
+<span data-uid='6' class='dynalight'>I&#039;m sorry </span>
+<span data-uid='5' class='lora'>Is your name Her My Oh Knee? </span>
+<span data-uid='2' class='yesteryear'>im sorry we dont get cable here </span>
+<span data-uid='6' class='dynalight'>This ghost to speech translator does not translate voice inflections </span>
+<span data-uid='5' class='lora'>Patricia? Sarah? Kinsley? K T? </span>
+<span data-uid='2' class='yesteryear'>we are on the inter web core bone </span>
+<span data-uid='4' class='seaweed'>you push a button </span>
+<span data-uid='5' class='lora'>Mary? Margaret? </span>
+<span data-uid='2' class='yesteryear'>melissa </span>
+<span data-uid='6' class='dynalight'>Monica? </span>
+<span data-uid='4' class='seaweed'>melanie </span>
+<span data-uid='2' class='yesteryear'>lewinksi </span>
+<span data-uid='6' class='dynalight'>Morgan? </span>
+<span data-uid='5' class='lora'>Mona? </span>
+<span data-uid='4' class='seaweed'>HELLO MORGAN </span>
+<span data-uid='6' class='dynalight'>Yay! </span>
+<span data-uid='5' class='lora'>Hein. Mona. Bruno. Hein. Mona. Bruno. </span>
+<span data-uid='2' class='yesteryear'>hein likes you morgan </span>
+<span data-uid='4' class='seaweed'>NOOOOOOOOOOOOOOOO </span>
+<span data-uid='6' class='dynalight'>Goodbye </span>
+<span data-uid='5' class='lora'>I love you guys. </span>
+<span data-uid='5' class='lora'>My name is Twinklehoof </span>
+<span data-uid='2' class='yesteryear'>obama </span>
+<span data-uid='4' class='seaweed'>our name is legion </span>
+<span data-uid='5' class='lora'>Twinklehoof </span>
+<span data-uid='2' class='yesteryear'>my name is  inigo montoya</span>
+<span data-uid='2' class='yesteryear'>prepare to die </span>
+<span data-uid='2' class='yesteryear'>bring more fresh souls </span>
+<span data-uid='4' class='seaweed'>wait </span>
+<span data-uid='6' class='dynalight'>Bye! </span>
+<span data-uid='5' class='lora'>I&#039;ll be here until April 30th </span>
+<span data-uid='4' class='seaweed'>damnit </span>
+<span data-uid='4' class='seaweed'>was trying to promote closing reception </span>
+<span data-uid='4' class='seaweed'>thursday april 30 5-8pm </span>
+<span data-uid='4' class='seaweed'>pass it on </span>

@@ -1,0 +1,1 @@
+vlc v4l2:///dev/video0:width=640:height=480 :input-slave=alsa://hw:2,0 --sout '#transcode{vcodec=FLV1,vb=256,acodec=mp3,ab=64,samplerate=44100}:std{access=http{mime=video/x-flv},mux=ffmpeg{mux=flv},dst=0.0.0.0:8081/stream.flv}' 
